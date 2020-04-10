@@ -1,0 +1,74 @@
+### Site Settings ###
+title               : iamtejas
+description         : >-
+                      "I turn coffee :coffee: into code,
+                      use tabs over spaces
+                      and never broke production."
+baseurl             : "/Portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : iamtejasvaidhya/Portfolio     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+
+### Author Info ###
+author:
+  name              : Tejas Vaidhya
+  image             : https://bit.ly/2KCvgVJ
+# behance           : your_username
+# dribbble          : your_username
+  email             : iamtejasvaidhy@gmail.com
+  facebook          : tejas.vaidhya.52
+  github            : tejasvaidhyadev
+# gitlab            : your_username
+  instagram         : tejasvaidhya/
+  linkedin          : tejas-vaidhya-0245b5157/
+  medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+ 
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
