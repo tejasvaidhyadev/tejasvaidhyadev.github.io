@@ -20,7 +20,7 @@ I started going through offical documentation of Julia which is one of the best 
 On 15 march, I started working on my proposal. It was difficult, but the most intersting part for me. I went though alot of research paper in the field of Natural language Processing.
 Finally On march 28, I drafted and submitted my final porposal for JuliaText.
 
-After all these hardwork and a complete month of mixed emotions full of nervousness and excitement, Finally the day of judgement came, On may 4 at 11:31 IST .I went to google summer of code site and searched for my name and voilà! it was there.
+After all these hardwork and a complete month of mixed emotions, full of nervousness and excitement. Finally the day of judgement came. On may 4, at 11:31 IST I went to google summer of code site and searched for my name and voilà! it was there.
 {% include elements/figure.html image="https://raw.githubusercontent.com/tejasvaidhyadev/Portfolio/gh-pages/_images/acceptanceletter.jpg" caption="Acceptance Letter" %}
 
 I would like to thank my mentors [Aviks](https://github.com/aviks/) & [Ayushk4](https://ayushk4.github.io/) for selecting me as student developer in Google summer of code. It would not have been possible without your support and the wonderful Julia community. 
