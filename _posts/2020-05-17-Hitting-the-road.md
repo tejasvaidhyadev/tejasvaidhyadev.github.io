@@ -11,7 +11,7 @@ description: GSoC 2020-Blog#1 Describing my journey from knowing about the GSoC 
 
 I am really pleased :relaxed: to share the news that my proposal got accepted in **Google Summer of Code-2020** under [The JuliaLang Organization](https://julialang.org/).
 
-It was all started in the end of December. I was in my kitchen making coffee. :coffee:
+It was all started at the end of December. I was in my kitchen making coffee. :coffee:
 
 I phoned my friend [Nikhil shah](https://www.linkedin.com/in/iamshnik/) and while discussing with him, he told me to apply for GSoC. I had some decent experience in coding, and was interested in Natural language processing. After thinking for a while I decided to give it a shot and started taking advice from previous GSoCer. [Ayush](https://ayushk4.github.io/) was one of them. He helped me with getting started . After going through lot of the organization I decided to apply in [JuliaText](https://github.com/JuliaText) (It is the JuliaLang organization that provides with packages to work with text). 
 
