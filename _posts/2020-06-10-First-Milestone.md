@@ -22,7 +22,7 @@ I started by reading about SentencePiece's Unigram Language for ALBEERT. Apart f
  
 ## Implementation of Statistical Language Model
 
-I am proud :smiley: to announced our [Statistical Language Model Framework](https://github.com/JuliaText/TextAnalysis.jl/pull/210) in TextAnalysis.jl inspired from [NLTK.lm](https://www.nltk.org/api/nltk.lm.html).
+I am proud :smiley: to announce our [Statistical Language Model Framework](https://github.com/JuliaText/TextAnalysis.jl/pull/210) in TextAnalysis.jl inspired from [NLTK.lm](https://www.nltk.org/api/nltk.lm.html).
 It provides implemented well known Langauge models and Frame work to creat your own Language model with high level APIs 
 
 **TextAnalysis** provide following different Language Models 
