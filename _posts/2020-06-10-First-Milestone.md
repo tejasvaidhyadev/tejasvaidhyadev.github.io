@@ -137,7 +137,7 @@ Arguments:
 
 #### `entropy`
 ```julia
-  entropy(m::Langmodel,lm::DefaultDict,text_ngram::word::Vector{T}) where { T <: AbstractString}
+entropy(m::Langmodel,lm::DefaultDict,text_ngram::word::Vector{T}) where { T <: AbstractString}
 ```
 
   Calculate cross-entropy of model for given evaluation text.
