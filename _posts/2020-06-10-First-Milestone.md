@@ -159,7 +159,7 @@ Arguments:
 2. `padding_ngrams`: padding _ngram is used to pad both left and right of sentence and out putting ngrmas of order n
 	It also pad the original input Array of string 
 
-% include elements/button.html link="https://github.com/JuliaText/TextAnalysis.jl/pull/210" text="Code" block=true %}
+{% include elements/button.html link="https://github.com/JuliaText/TextAnalysis.jl/pull/210" text="Code" block=true %}
 
 ## Future Mile stones :checkered_flag:
 
