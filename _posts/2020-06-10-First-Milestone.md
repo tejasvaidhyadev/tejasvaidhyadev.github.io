@@ -11,13 +11,13 @@ description: GSoC 2020-Blog#2 Introduction of Statistical Language model of Text
 
 The coding period for GSoC commenced from 1 june 2020
 
-I started by reading about SentencePiece's Unigram Language for ALBEERT. Apart from that I was actively working on Statistical Language model, which is completed and reviewed by my mentors.
+I started by reading about SentencePiece's Unigram for ALBERT. Apart from that I was actively working on Statistical Language model, which is completed and reviewed by my mentors.
 
 ## Types of Language Models
 
 - **Statistical Language Models**: These models use traditional statistical techniques like N-grams, Hidden Markov Models (HMM) and certain linguistic rules to learn the probability distribution of words
 
-- **Neural Language Models**: These are relatively new Methods in the NLP town and have surpassed the statistical language models in their effectiveness. They use different kinds of Neural Networks to model language
+- **Neural Language Models**: These are relatively new Methods in the NLP town and have surpassed the statistical language models in their effectiveness. They use different kinds of Neural Networks to model language. We will be discussing about it in next bolg.
 
  
 ## Implementation of Statistical Language Model
