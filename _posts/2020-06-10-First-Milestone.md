@@ -15,7 +15,7 @@ I started by reading about SentencePiece's Unigram for ALBERT. Apart from that I
 
 ## Types of Language Models
 
-- **Statistical Language Models**: These models use traditional statistical techniques like N-grams, Hidden Markov Models (HMM) and certain linguistic rules to learn the probability distribution of words
+- **Statistical Language Models**: These models use traditional statistical techniques like N-grams, Hidden Markov Models (HMM) and certain linguistic rules to learn the probability distribution of words.
 
 - **Neural Language Models**: These are relatively new Methods in the NLP town and have surpassed the statistical language models in their effectiveness. They use different kinds of Neural Networks to model language. We will be discussing about it in next bolg.
 
@@ -96,7 +96,7 @@ julia> masked_score = maskedscore(model,fit,"is","alien")
 
 ```
 
-!!! note
+!!! NOTE
 
     When you call `MLE(voc)` for the first time, It will update your vocabulary set as well. 
 
