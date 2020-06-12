@@ -136,9 +136,9 @@ Arguments:
   The arguments are the same as for score and maskedscore
 
 #### `entropy`
-	```julia
+```julia
   entropy(m::Langmodel,lm::DefaultDict,text_ngram::word::Vector{T}) where { T <: AbstractString}
-	```
+```
 
   Calculate cross-entropy of model for given evaluation text.
 
