@@ -3,6 +3,7 @@ title: Hitting the road
 tags: [GSoC 2020, Experience, Opinions]
 style: fill
 color: primary
+comments: true
 description: GSoC 2020-Blog#1 Describing my journey from knowing about the GSoC to getting selected as student developer.
 ---
 
