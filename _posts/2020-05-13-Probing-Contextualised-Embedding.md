@@ -16,7 +16,7 @@ Investigate how word-level contextual representations encode sentence structure 
 
 Based on recent token-level probing work, Paper introduce a novel edge probing task design and construct a broad suite of sub-sentence task taken from traditional NLP pipeline.
 
-![probing model architecture](/home/iamtejas/Pictures/probing model architecture.png)
+![probing model architecture](https://raw.githubusercontent.com/tejasvaidhyadev/Portfolio/gh-pages/_images/probing%20model%20architecture.png)
 
 *All parameters inside the dashed line are fixed, while we train the span pooling and MLP classifiers to extract information from the contextual vectors. The example shown is for semantic role labeling, where $$s^{(1)}$$ = [1, 2) corresponds to the predicate(“eat”), while $$s^{(2)}$$ = [2, 5) is the argument (“strawberry ice cream”), and we predict label A1 as positive and others as negative. For entity and constituent labeling, only a single span is used.*
 
