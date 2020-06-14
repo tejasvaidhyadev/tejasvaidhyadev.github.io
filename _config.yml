@@ -43,6 +43,9 @@ author:
 # vimeo             : your_username
 # youtube           : your_channel_name
 
+### Disqus
+disqus: portfolio-bnhbmol6a5
+
 
 ### Posts ###
 permalink: /blog/:title
@@ -63,8 +66,12 @@ defaults:
       type: "projects"
     values:
       layout: "page"
- 
-
+  - scope:                                              # For Documentation Only
+      path: ""                                          # For Documentation Only
+      type: "posts"                                  # For Documentation Only
+    values:
+      comments: true
+      
 ### Exclude from processing ###
 exclude:
   - README.md
