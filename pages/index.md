@@ -16,12 +16,17 @@ Hi I am **Tejas Vaidhya** (you can call me Dev) :wave:,<br>
 I am a Passionate Opensource developer currently in my third-year of undergraduation in the Department of Architecture and Regional Planning at IIT Kharagpur. I love Programming, Designing & Planning (after all i'm an architecture major), watching Anime, reading non-fiction, cooking, and finding new & interesting people.<br>
 <br>
 I have really enjoy my stay at IIT Kharagpur. I am fond of film making and Eating. In my free time I like to eat(you can find me in one of eateries of KGP). An enthusiast of Technologies and fascinate by how it affects life of people.
-
 <br>
+<br>
+<br>
+<br>
+
 <div class="row">
 {% include about/timeline.html title="Experience" source=site.data.education-timeline %}
 </div >
 *details of projects can be found* [here]()
+<br>
+<br>
 <br>
 <br>
 
