@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : iamtejas
 description         : >-
-                      "I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production."
+                     "The world is full of magical :snowflake: things, 
+                      patiently waiting for our senses to grow sharper."
 baseurl             : "/Portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 remote_theme        : tejasvaidhyadev/portfolYOU       # theme 
 
