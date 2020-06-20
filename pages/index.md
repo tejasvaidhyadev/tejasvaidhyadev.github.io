@@ -17,7 +17,7 @@ I am a Passionate Opensource developer currently in my third-year of undergradua
 <br>
 I have really enjoy my stay at IIT Kharagpur. I am fond of film making and Eating. In my free time I like to eat(you can find me in one of eateries of KGP). An enthusiast of Technologies and fascinate by how it affects life of people.
 
-
+<br>
 <div class="row">
 {% include about/timeline.html title="Experience" source=site.data.education-timeline %}
 </div >
@@ -27,7 +27,7 @@ I have really enjoy my stay at IIT Kharagpur. I am fond of film making and Eatin
 
 
 <div style="text-align: center;font-size:180%;">
- <b>Lets have a chat :mailbox_with_mail:</b>
+<b> Lets have a chat :mailbox_with_mail:</b>
 </div>
 
 <div style="text-align: center;font-size:140%;">
