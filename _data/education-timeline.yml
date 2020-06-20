@@ -1,5 +1,5 @@
 - entity: Google Summer of Code @julialang
-  link: https://www.utc.fr/
+  link: https://summerofcode.withgoogle.com/projects/#5015442659213312
   location: 
   role: Student Developer
   from: Sep 2017
@@ -13,7 +13,7 @@
   tools: [NLP, Transformer, Language model, julia]
 
 - entity: CERN
-  link: https://www.rtu.lv/en
+  link: https://home.cern/
   location: Hong kong
   role: Student Researcher
   from: march 2020

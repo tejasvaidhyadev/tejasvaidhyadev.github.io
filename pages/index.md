@@ -77,3 +77,9 @@ I have really enjoy my stay at IIT Kharagpur. I am fond of film making and Eatin
 {% endif %}
 
 </div>
+<br>
+<br>
+<div align="center" style="font-size: 80%">
+	<i>iamtejasvaidhya@iitkgp.ac.in</i><br>
+	<i>+91 9340004079</i>
+</div>
