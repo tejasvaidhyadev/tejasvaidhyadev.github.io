@@ -4,10 +4,7 @@ permalink: /
 ---
 
 {% include landing.html %}
-<br>
-<br>
-<br>
-<br>
+
 
 
 # **About Me**
@@ -20,6 +17,8 @@ I have really enjoy my stay at IIT Kharagpur. I am fond of film making and Eatin
 <br>
 <br>
 <br>
+<br>
+
 
 <div class="row">
 {% include about/timeline.html title="Experience" source=site.data.education-timeline %}
@@ -29,6 +28,8 @@ I have really enjoy my stay at IIT Kharagpur. I am fond of film making and Eatin
 <br>
 <br>
 <br>
+<br>
+
 
 
 <div style="text-align: center;font-size:180%;">
