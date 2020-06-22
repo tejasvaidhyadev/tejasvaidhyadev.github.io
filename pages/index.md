@@ -10,7 +10,7 @@ permalink: /
 
 
 
-# **About Me**
+## **About Me**
 
 Hi I am **Tejas Vaidhya** (you can call me Dev) :wave:,<br>
 I am a Passionate Opensource developer currently in my third-year of undergraduation in the Department of Architecture and Regional Planning at IIT Kharagpur. I love Programming, Designing & Planning (after all i'm an architecture major), watching Anime, reading non-fiction, cooking, and finding new & interesting people.<br>
@@ -27,11 +27,22 @@ I have really enjoy my stay at IIT Kharagpur. I am fond of film making and Eatin
 {% include about/timeline.html title="Experience" source=site.data.education-timeline %}
 </div >
 *details of projects can be found* [here]()
+
+<br>
+<br>
+### Curated Projects      
+{% include elements/button.html link="projects/" text="Have a look "  block=true %}
+<br>
+
+
+###### You can check out the other things I do [here](Random/)
+
+
+
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 
 
@@ -86,6 +97,7 @@ I have really enjoy my stay at IIT Kharagpur. I am fond of film making and Eatin
 {% endif %}
 
 </div>
+
 <br>
 <br>
 <div align="center" style="font-size: 80%">

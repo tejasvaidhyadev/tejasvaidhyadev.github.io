@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Avocation
 permalink: /Random/
-weight: 3
+weight: 0
 ---
 <h2 style="color:black;font-family:'Courier New'">
 Design & Planning 

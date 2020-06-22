@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resume
-weight: 5
+weight: 4
 external_url: https://github.com/tejasvaidhyadev/CV/plob/master/
 ---
 
