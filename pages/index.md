@@ -12,10 +12,10 @@ permalink: /
 
 ## **About Me**
 
-Hi I am **Tejas Vaidhya** (you can call me Dev) :wave:,<br>
-I am a Passionate Opensource developer currently in my third-year of undergraduation in the Department of Architecture and Regional Planning at IIT Kharagpur. I love Programming, Designing & Planning (after all i'm an architecture major), watching Anime, reading non-fiction, cooking, and finding new & interesting people.<br>
-<br>
-I have really enjoy my stay at IIT Kharagpur. I am fond of film making and Eating. In my free time I like to eat(you can find me in one of eateries of KGP). An enthusiast of Technologies and fascinate by how it affects life of people.
+Hello, I am Tejas Vaidhya (you can also call me Dev):wave:,<br> I am an Undergrad Researcher, Passionate Opensource developer, and a tech enthusiast. I am currently in my third year of Undergraduate studies, pursuing my major in Bachelor of Architecture and Planning and Minor in Mathematics and Computing at IIT Kharagpur. <br>
+My research interest lies in Computer vision and Natural language processing. Currently, I am researching on Probing techniques for Transformer based model.<br>
+I love Programming, Designing, and Planning (Afterall I am an architecture major). I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.<br>
+
 <br>
 <br>
 <br>
