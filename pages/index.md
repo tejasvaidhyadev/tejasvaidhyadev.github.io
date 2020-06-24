@@ -26,15 +26,14 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 <div class="row">
 {% include about/timeline.html title="Experience" source=site.data.education-timeline %}
 </div >
-*details of projects can be found* [here]()
+*details of projects can be found* [here](projects/)
 
 <br>
 <br>
 ### Curated Projects      
-{% include elements/button.html link="projects/" text="Have a look "  block=true %}
-<br>
 
-
+{% include projects/index.html %}
+{% include elements/button.html link="projects/" text="Read More " block=true %}
 ###### You can check out the other things I do [here](Random/)
 
 
