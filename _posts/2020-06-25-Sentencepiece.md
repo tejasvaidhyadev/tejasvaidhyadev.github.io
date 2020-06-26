@@ -158,8 +158,7 @@ julia> ids_from_tokens(tk)
   1953
 
 ```
-The APIs are not limited to shown above.There are lots of other APIs for Decoding from token to Sentences.
-
+The APIs are not limited to shown above.There are lots of other APIs for Decoding from tokens to Sentence.
 As we already completed all the pre-processing component for ALBERT. We can start building our Transformer model :smile:
 
 # References
