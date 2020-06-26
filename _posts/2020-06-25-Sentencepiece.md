@@ -166,7 +166,7 @@ As we already completed all the pre-processing component for ALBERT we can start
 - [kudo et al.,2018](https://arxiv.org/abs/1808.06226)
 - [A rust](https://myzigyasa.com/post/rust/104/a-rust-sentencepiece-implementation)
 - [Julia Language](https://julialang.org/)
-https://github.com/google/sentencepiece]
+- [sentencepiece library](https://github.com/google/sentencepiece)
 
 <br>
 **funfact**: All my GSoC blogs are title as I was walking the road . yes, you guess it right there will be blog with title "Road Not Taken" at the end
