@@ -86,7 +86,8 @@ Encoding (the focus of this article) is used during the training maximization st
 <br>
 ### Our implementation of Sentencepiece Processor in Julia
 <br>
-the code can be found [here](https://gist.github.com/tejasvaidhyadev/21a092ff3fe1f2c146a60af44b9519c1).After proper APIs completion I will creat a PR in `WordTokenizer` <br>
+The code can be found [here](https://gist.github.com/tejasvaidhyadev/21a092ff3fe1f2c146a60af44b9519c1).
+After proper APIs completion I will creat a PR in `WordTokenizer` <br>
 For now the code is kept inside ALBERT PR in TextAnalaysis
 
 ```julia
@@ -126,7 +127,7 @@ julia>reverse(t)
  Nodes("_for", -5.13717f0, 27, 14, 17)     
  Nodes("_future", -9.25717f0, 1023, 18, 24)
 ```
-above function is just to show what is happening under the hood our APIs did all things as shown below
+above function is just to show what is happening under the hood our APIs did all things as shown below.
 
 ```julia
 julia> spm = load(path)
@@ -143,7 +144,6 @@ julia> tk = Tokenizer(spm,"the quick brown fox jumps over the lazy dog")
  "_the"  
  "_lazy" 
  "_dog"  
-tk = Tokenizer(spm, "the quick brown fox jumps over the lazy dog")
 
 julia> ids_from_tokens(tk) 
 	9-element Array{Int64,1}:
