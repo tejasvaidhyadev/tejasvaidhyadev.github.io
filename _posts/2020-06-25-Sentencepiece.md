@@ -169,4 +169,4 @@ As we already completed all the pre-processing component for ALBERT we can start
 - [sentencepiece library](https://github.com/google/sentencepiece)
 
 <br>
-**funfact**: All my GSoC blogs are title as I was walking the road . yes, you guess it right there will be blog with title "Road Not Taken" at the end
+**funfact**: All my GSoC blogs are titled as I am walking on the road. yes, you guess it right there will be blog with title "Road Not Taken" at the end
