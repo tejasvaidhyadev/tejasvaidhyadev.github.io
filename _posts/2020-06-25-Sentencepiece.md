@@ -46,7 +46,7 @@ Aim of the tokenization is to identify the subtokens ($$x_1$$, $$x_2$$, ..., $$x
 <br>
 *∀i* $$\space$$ $$x_i \in, \space \sum p(x) = 1$$
 <br><br>
-the most probable segments $$x_*$$ for input sentence $$X$$
+the most probable segments $$x^*$$ for input sentence $$X$$
 is given by
 
 $$x^* = arg max P(x)$$,$$\space$$ $$x \in S(X) $$
