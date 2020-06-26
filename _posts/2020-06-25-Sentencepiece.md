@@ -86,7 +86,7 @@ Encoding (the focus of this article) is used during the training maximization st
 <br>
 ### Our implementation of Sentencepiece Processor in Julia
 <br>
-The code can be found [here](https://gist.github.com/tejasvaidhyadev/21a092ff3fe1f2c146a60af44b9519c1).
+The code can be found [here](https://gist.github.com/tejasvaidhyadev/21a092ff3fe1f2c146a60af44b9519c1).<br>
 After proper APIs completion I will creat a PR in `WordTokenizer` <br>
 For now the code is kept inside ALBERT PR in TextAnalaysis
 
@@ -160,7 +160,7 @@ julia> ids_from_tokens(tk)
 ```
 The APIs are not limited to shown above.There are lots of other APIs for Decoding from token to Sentences.
 
-As we already completed all the pre-processing component for ALBERT we can starting building our Transformer model :smile:
+As we already completed all the pre-processing component for ALBERT. We can start building our Transformer model :smile:
 
 # References
 - [kudo et al.,2018](https://arxiv.org/abs/1808.06226)
