@@ -127,7 +127,7 @@ julia>reverse(t)
  Nodes("_for", -5.13717f0, 27, 14, 17)     
  Nodes("_future", -9.25717f0, 1023, 18, 24)
 ```
-above function is just to show what is happening under the hood our APIs did all things as shown below.
+above function is just to show what is happening under the hood our APIs will do all things as shown below.
 
 ```julia
 julia> spm = load(path)
