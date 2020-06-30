@@ -59,14 +59,14 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
         <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email | default: "Email Address" }}">
       </label>
         <br>
-
+    
       <label>
         Content
         <textarea type="text" name="content" rows="5" placeholder="{{ site.text.contact.content | default: "What would you like to say?" }}" style="resize: vertical"></textarea>
       </label>
-
+    
       <input type="text" name="_gotcha" style="display:none" />
-
+    
       <button type='submit' class="button button-blue button-big mobile-block">{{ site.text.contact.submit | default: "Say Hello" }}</button>
     </form>
   {% else %}
@@ -82,7 +82,7 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
         <br>
         <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content | default: "What would you like to say?" }}" style="resize: vertical"></textarea>
       </label>
-
+    
       <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
       <input type="hidden" name="_subject" value="{{ site.text.contact.subject | default: "New submission!" }}" />
       <input type="text" name="_gotcha" style="display:none" />
@@ -103,3 +103,5 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 	<i>iamtejasvaidhya@iitkgp.ac.in</i><br>
 	<i>+91 9340004079</i>
 </div>
+
+{% include googlebaf1fe1546e959ea.html %}
