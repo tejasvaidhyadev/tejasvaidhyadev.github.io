@@ -71,7 +71,7 @@ defaults:
     values:
       comments: true
       
-### Exclude from processing ###
+### Exclude from the processing ###
 exclude:
   - README.md
   - CONTRIBUTING.md
