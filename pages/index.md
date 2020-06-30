@@ -104,4 +104,3 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 	<i>+91 9340004079</i>
 </div>
 
-{% include googlebaf1fe1546e959ea.html %}
