@@ -1,7 +1,7 @@
 ---
-title: Divergence - Tale of Sentencepiece Library
+title: Divergence - First sight of albert 
 tags: [GSoC 2020, ALBERT, TextAnalysis, Transformers ]
-style: warning
+style: danger
 color: secondary
 description: GSoC 2020-Blog#4 The blog is about present development of ALBERT model in TextAnlaysis.
 ---
