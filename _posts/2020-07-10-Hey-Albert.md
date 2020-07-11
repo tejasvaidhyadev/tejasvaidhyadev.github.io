@@ -2,7 +2,7 @@
 title: First sight of albert, the land of Transformers
 tags: [GSoC 2020, ALBERT, TextAnalysis, Transformers ]
 style: fill
-color: sucess
+color: success
 description: GSoC 2020-Blog#4 The blog is about present development of ALBERT model in TextAnlaysis.
 ---
 
@@ -37,8 +37,8 @@ ALBERT is a “lite” version of Google’s 2018 NLU pretraining method BERT. I
 It very easy and similar to any of the other Flux layer for training
 
 ```julia 
->julia using TextAnalysis
->julia using TextAnalysis.ALBERT
+julia> using TextAnalysis
+julia> using TextAnalysis.ALBERT
 ```
 
 we are going to use DataDeps for handling download of pretrained model of ALBERT
@@ -48,11 +48,11 @@ we are going to use DataDeps for handling download of pretrained model of ALBERT
 - other pretrained Weights can be found [here](https://drive.google.com/drive/u/1/folders/1HHTlS_jBYRE4cG0elITEH7fAkiNmrEgz) (Both Versions)
 
 ```julia
->julia using BSON: @save, @load
+julia> using BSON: @save, @load
 
->julia @load "/home/iamtejas/Downloads/albert_base_v1.bson.tfbson" config weights vocab
+julia> @load "/home/iamtejas/Downloads/albert_base_v1.bson.tfbson" config weights vocab
 
->julia transformer = TextAnalysis.ALBERT.load_pretrainedalbert(config, weights)
+julia> transformer = TextAnalysis.ALBERT.load_pretrainedalbert(config, weights)
 ```
 **output**
 
@@ -64,13 +64,13 @@ CompositeEmbedding(tok = Embed(128), segment = Embed(128), pe = PositionEmbeddin
 ```
 
 ```julia
->julia using WordTokenizers #we have albert_tokenizer residing in WordTokenizer
+julia> using WordTokenizers #we have albert_tokenizer residing in WordTokenizer
 
->julia sample1 = "God is Great! I won a lottery."
+julia> sample1 = "God is Great! I won a lottery."
 
->julia sample2 = "If all their conversations in the three months he had been coming to the diner were put together, it was doubtful that they would make a respectable paragraph."
->julia sample3 = "She had the job she had planned for the last three years."
->julia sample = [sample1,sample2,sample3]
+julia> sample2 = "If all their conversations in the three months he had been coming to the diner were put together, it was doubtful that they would make a respectable paragraph."
+julia> sample3 = "She had the job she had planned for the last three years."
+julia> sample = [sample1,sample2,sample3]
 ```
 
 **output**
@@ -96,17 +96,16 @@ WordTokenizers.Sentencepiecemodel(["<pad>", "<unk>", "[CLS]", "[SEP]", "[MASK]",
 ```
 
 
-
 ## Preprocessing
 
 I am also working on Preprocessing APIs to make it really easy for user
 
 ```julia
->julia s1 = ids_from_tokens(spm, tokenizer(spm,sample[1]))
->julia s2 = ids_from_tokens(spm, tokenizer(spm,sample[2]))
->julia s3 = ids_from_tokens(spm, tokenizer(spm,sample[3]))
->julia E = Flux.batchseq([s1,s2,s3],1)
->julia E = Flux.stack(E,1)
+julia> s1 = ids_from_tokens(spm, tokenizer(spm,sample[1]))
+julia> s2 = ids_from_tokens(spm, tokenizer(spm,sample[2]))
+julia> s3 = ids_from_tokens(spm, tokenizer(spm,sample[3]))
+julia> E = Flux.batchseq([s1,s2,s3],1)
+julia> E = Flux.stack(E,1)
 ```
 
 **output**
@@ -137,7 +136,7 @@ I am also working on Preprocessing APIs to make it really easy for user
 
 
 ```julia
->julia seg_indices = ones(Int, size(E)...)
+julia> seg_indices = ones(Int, size(E)...)
 ```
 
 **output**
@@ -169,8 +168,8 @@ We know input the embedding requires both segment and token indices.
 the `embedding` function itself handle position embedding (Thanks to [Transformers](https://github.com/chengchingwen/Transformers.jl) )
 
 ```julia
->julia embedding = transformer[1]
->juia emb = embedding(tok=E, segment=seg_indices)
+julia> embedding = transformer[1]
+juia> emb = embedding(tok=E, segment=seg_indices)
 ```
 
 **output**
@@ -269,7 +268,7 @@ the `embedding` function itself handle position embedding (Thanks to [Transforme
 *lets pass the embedding through AlbertTranformer to get contextualised_embedding*
 
 ```julia
->julia contextualised_embedding = transformer[2](emb)
+julia> contextualised_embedding = transformer[2](emb)
 ```
 
 **voilà we got Contextualised embedding below** 
@@ -368,7 +367,7 @@ the `embedding` function itself handle position embedding (Thanks to [Transforme
 we also have loaded weight of MLM classifier and SOP classifier 
 
 ```julia
->julia cls = transformer[3][1] #for mlm  tasked
+julia> cls = transformer[3][1] #for mlm  tasked
 ```
 
 **output** 
@@ -380,7 +379,7 @@ we also have loaded weight of MLM classifier and SOP classifier
 
 
 ```julia
-cls = transformer[3][3] #for Sentence order prediction
+>julia cls = transformer[3][3] #for Sentence order prediction
 ```
 
 **output**
