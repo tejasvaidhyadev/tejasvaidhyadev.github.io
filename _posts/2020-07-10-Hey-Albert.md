@@ -27,6 +27,7 @@ The success of ALBERT demonstrates the importance of identifying the aspects of 
 
 ## WHY ALBERT
 
+
 > An ALBERT configuration similar to BERT-large has 18x fewer parameters and can be trained about 1.7x faster.
 
 ALBERT is a “lite” version of Google’s 2018 NLU pretraining method BERT. It has fewer parameter than BERT.
