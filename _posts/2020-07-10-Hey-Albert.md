@@ -381,7 +381,7 @@ julia> cls = transformer[3][1] #for mlm  tasked
 
 
 ```julia
->julia cls = transformer[3][3] #for Sentence order prediction
+julia> cls = transformer[3][3] #for Sentence order prediction
 ```
 
 **output**
