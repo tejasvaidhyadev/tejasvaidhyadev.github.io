@@ -1,8 +1,8 @@
 ---
 title: First sight of albert, the land of Transformers
 tags: [GSoC 2020, ALBERT, TextAnalysis, Transformers ]
-style: danger
-color: secondary
+style: fill
+color: success
 description: GSoC 2020-Blog#4 The blog is about present development of ALBERT model in TextAnlaysis.
 ---
 
