@@ -2,7 +2,7 @@
 title: First sight of albert, the land of Transformers
 tags: [GSoC 2020, ALBERT, TextAnalysis, Transformers ]
 style: fill
-color: success
+color: sucess
 description: GSoC 2020-Blog#4 The blog is about present development of ALBERT model in TextAnlaysis.
 ---
 
@@ -20,7 +20,7 @@ References
 
 ## ALBERT ?
 
-{% include elements/figure.html image="https://raw.githubusercontent.com/tejasvaidhyadev/Portfolio/gh-pages/_images/Albert.jpeg" caption="ALBERT?" %}
+{% include elements/figure.html image="https://raw.githubusercontent.com/tejasvaidhyadev/Portfolio/gh-pages/_images/albert.jpg" caption="ALBERT?" %}
 An upgrade to BERT that advances the state-of-the-art performance on 12 NLP tasks
 
 The success of ALBERT demonstrates the importance of identifying the aspects of a model that give rise to powerful contextual representations. By focusing improvement efforts on these aspects of the model architecture, it is possible to greatly improve both the model efficiency and performance on a wide range of NLP tasks
