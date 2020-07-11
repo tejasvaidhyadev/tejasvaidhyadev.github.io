@@ -20,7 +20,7 @@ References
 
 ## ALBERT ?
 
-{% include elements/figure.html image="https://raw.githubusercontent.com/tejasvaidhyadev/Portfolio/gh-pages/_images/albert.jpg" caption="ALBERT?" %}
+{% include elements/figure.html image="https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/albert.jpg" caption="ALBERT?" %}
 An upgrade to BERT that advances the state-of-the-art performance on 12 NLP tasks
 
 The success of ALBERT demonstrates the importance of identifying the aspects of a model that give rise to powerful contextual representations. By focusing improvement efforts on these aspects of the model architecture, it is possible to greatly improve both the model efficiency and performance on a wide range of NLP tasks
