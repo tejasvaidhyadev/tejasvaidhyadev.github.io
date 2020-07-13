@@ -67,7 +67,7 @@ defaults:
       layout: "page"
   - scope:                                              # For Documentation Only
       path: ""                                          # For Documentation Only
-      type: "posts"                                  # For Documentation Only
+      type: "posts"                                  
     values:
       comments: true
       
