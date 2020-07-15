@@ -1,2 +1,2 @@
 # Portfolio
-My public Porfolio Website
+My public Porfolio and blogging Website
