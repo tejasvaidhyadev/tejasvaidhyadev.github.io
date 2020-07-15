@@ -19,9 +19,6 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 <div class="row">
 {% include about/timeline.html title="Experience" source=site.data.education-timeline %}
