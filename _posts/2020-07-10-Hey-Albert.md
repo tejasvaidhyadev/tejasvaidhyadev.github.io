@@ -85,10 +85,10 @@ julia> sample = [sample1,sample2,sample3]
 ```
 ## Tokenizer
 
-**loading of tokenizer form all the available since we are using base_V1**
+**loading of tokenizer from WordTokenizer**
 
 ```julia
-julia> spm = load(ALBERT_V1,"albert_base_v1_30k-clean.vocab")
+julia> spm = load(ALBERT_V1,"albert_base_v1_30k-clean.vocab") # since we are using base_V1
 ```
 
 **output**
@@ -135,6 +135,7 @@ julia> E = Flux.stack(E,1)
     1     10     1
 ```
 
+The indices will be act as keys for loading pretrained embedding for each word or subword tokens
 
 
 ```julia
@@ -165,7 +166,7 @@ julia> seg_indices = ones(Int, size(E)...)
  1  1  1
 ```
 
-We know input the embedding requires both segment and token indices.
+We know input the embedding requires both segment and token indices. 
 
 the `embedding` function itself handle position embedding (Thanks to [Transformers](https://github.com/chengchingwen/Transformers.jl) )
 
