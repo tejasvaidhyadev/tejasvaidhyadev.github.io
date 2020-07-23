@@ -21,6 +21,7 @@ References
 {% include elements/list.html title="Table of Contents" type="toc" %}
 <br>
 
+I assume that you are familiar with the original implementation of BERT, if not please read the [BERT paper](https://arxiv.org/pdf/1810.04805.pdf) before moving forward
 ## ALBERT ?
 
 {% include elements/figure.html image="https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/Albert.jpeg" caption="ALBERT?" %}
@@ -37,19 +38,24 @@ ALBERT is a “lite” version of Google’s 2018 NLU pretraining method BERT. I
 
 
 ## From BERT to ALBERT
-
+<br>
 ##### 1. Factorized Embedding Parameterization 
+
 >ALBERT separated the Embedding matrix $$V$$ x $$H$$ to $$V$$ x $$E$$ and and $$E$$ x $$H$$ :
+
 
 ALBERT uses a factorization of the embedding parameters, decomposing them into two smaller matrices. Instead of projecting the one-hot vectors directly into the hidden space of size H, we first project them into a lower-dimensional embedding space of size E and then project it to the hidden space. By using this decomposition, we reduce the embedding parameters from $$O$$($$V$$ x $$H$$) to $$O$$($$V$$x$$ E + E$$x$$H$$)
 
 ##### 2. Cross-layer parameter sharing
+
 >ALBERT uses cross-layer parameter sharing in Attention and FFN(FeedForward Network) to reduce the number of parameters:
 
 weight-sharing has an effect on stabilizing network parameters. Although there is a drop for both metrics compared to BERT, they nevertheless do not converge to 0 even after 24 layers. This shows that the solution space for ALBERT parameters is very different from the one found by DQE.
 
 ##### 3. Inter-sentence coherence loss 
+ 
 >In Original BERT, creating is-not-next (negative) two sentences with randomly picking, however ALBERT uses negative examples the same two consecutive segments but with their order swapped:
+
 
  we use a sentence-order prediction (SOP) loss, which avoids topic prediction and instead focuses on modeling inter-sentence coherence. The SOP loss uses as positive examples the same technique as BERT (two consecutive segments from the same document), and as negative examples the same two consecutive segments but with their order swapped.
 
@@ -401,6 +407,7 @@ julia> contextualised_embedding = transformer[2](emb)
 
 we also have loaded weight of MLM classifier and SOP classifier used for pretraining
 
+**MLM layer with loaded pretrained weights**
 ```julia
 julia> cls = transformer[3][1] #for mlm  tasked and transformer[3][2] is pooler layer
 ```
@@ -411,7 +418,7 @@ julia> cls = transformer[3][1] #for mlm  tasked and transformer[3][2] is pooler 
 (transform = Chain(Dense(768, 128, gelu), LayerNorm(128)), output_bias = Float32[-5.345022, 2.1769698, -7.144285, -9.102521, -8.083536, 0.56541324, 1.2000155, 1.4699979, 1.5557922, 1.9452884  …  -0.6403663, -0.9401073, -1.0888876, -0.9298268, -0.64744073, -0.47156653, -0.81416136, -0.87479985, -0.8785063, -0.5505797])
 ```
 
-
+**Sentence Order Prediction loaded layer**
 
 ```julia
 julia> cls = transformer[3][3] #for Sentence order prediction
