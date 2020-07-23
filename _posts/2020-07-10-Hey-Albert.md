@@ -11,6 +11,7 @@ description: GSoC 2020-Blog#4 The blog is about present development of ALBERT mo
 {% capture list_items %}
 ALBERT ?
 WHY ALBERT
+From BERT to ALBERT
 Julia-Flux ALBERT Model
 Tokenizer
 ALBERT Transformer
@@ -34,20 +35,45 @@ The success of ALBERT demonstrates the importance of identifying the aspects of 
 
 ALBERT is a “lite” version of Google’s 2018 NLU pretraining method BERT. It has fewer parameter than BERT.
 
+
+## From BERT to ALBERT
+
+##### 1. Factorized Embedding Parameterization 
+>ALBERT separated the Embedding matrix $$V$$ x $$H$$ to $$V$$ x $$E$$ and and $$E$$ x $$H$$ :
+
+ALBERT uses a factorization of the embedding parameters, decomposing them into two smaller matrices. Instead of projecting the one-hot vectors directly into the hidden space of size H, we first project them into a lower-dimensional embedding space of size E and then project it to the hidden space. By using this decomposition, we reduce the embedding parameters from $$O$$($$V$$ x $$H$$) to $$O$$($$V$$x$$ E + E$$x$$H$$)
+
+##### 2. Cross-layer parameter sharing
+>ALBERT uses cross-layer parameter sharing in Attention and FFN(FeedForward Network) to reduce the number of parameters:
+
+weight-sharing has an effect on stabilizing network parameters. Although there is a drop for both metrics compared to BERT, they nevertheless do not converge to 0 even after 24 layers. This shows that the solution space for ALBERT parameters is very different from the one found by DQE.
+
+##### 3. Inter-sentence coherence loss 
+>In Original BERT, creating is-not-next (negative) two sentences with randomly picking, however ALBERT uses negative examples the same two consecutive segments but with their order swapped:
+
+ we use a sentence-order prediction (SOP) loss, which avoids topic prediction and instead focuses on modeling inter-sentence coherence. The SOP loss uses as positive examples the same technique as BERT (two consecutive segments from the same document), and as negative examples the same two consecutive segments but with their order swapped.
+
+
+
 ## Julia-Flux ALBERT Model
 
-It very easy and similar to any of the other Flux layer for training
+Implemented the ALBERT model in Julia to wrap Pretrained Weight released by google-research and allows fine-tuning.
+I have also converted google released weights to BSON (julia friendly formate) 
+Our ALBERT model is very easy and similar to any of the other Flux layer in training
 
+let's see how to use it
+
+first we load `TextAnalysis` in julia
 ```julia 
 julia> using TextAnalysis
 julia> using TextAnalysis.ALBERT
 ```
 
-we are going to use DataDeps for handling download of pretrained model of ALBERT
+we are going to use DataDeps for handling download of pretrained models of ALBERT {base-v1/v2, largev1/v2, xlargev1/v2, xxlargev1/v2}
 
 - For now we are directly loading
 
-- other pretrained Weights can be found [here](https://drive.google.com/drive/u/1/folders/1HHTlS_jBYRE4cG0elITEH7fAkiNmrEgz) (Both Versions)
+- other converted BSON pretrained Weights can be found [here](https://drive.google.com/drive/u/1/folders/1HHTlS_jBYRE4cG0elITEH7fAkiNmrEgz) (Both Versions)
 
 ```julia
 julia> using BSON: @save, @load
@@ -87,6 +113,9 @@ julia> sample = [sample1,sample2,sample3]
 
 **loading of tokenizer from WordTokenizer**
 
+Instead of using Wordpiece like BERT, most of new models like XLNET and ALBERT uses `sentencepiece` unigram algorithm for subword tokenisation
+
+From avaliable sentencepiece pretrained unigram models we are going to use albert_base_v1_30k-clean.vocab because we are loading same for transformers 
 ```julia
 julia> spm = load(ALBERT_V1,"albert_base_v1_30k-clean.vocab") # since we are using base_V1
 ```
@@ -99,6 +128,9 @@ WordTokenizers.Sentencepiecemodel(["<pad>", "<unk>", "[CLS]", "[SEP]", "[MASK]",
 
 
 ## Preprocessing
+
+As we know Transformers takes both tokens as well as segment indices 
+Here, we are only working with model structure we will leave adding [CLS] and [SEP] token parts
 
 I am also working on Preprocessing APIs to make it really easy for user
 
@@ -166,10 +198,10 @@ julia> seg_indices = ones(Int, size(E)...)
  1  1  1
 ```
 
-We know input the embedding requires both segment and token indices. 
+We already know input embedding requires both segment and token indices. 
 
 the `embedding` function itself handle position embedding (Thanks to [Transformers](https://github.com/chengchingwen/Transformers.jl) )
-
+so lets get pretrained embedding by using ids and segments as keys
 ```julia
 julia> embedding = transformer[1]
 juia> emb = embedding(tok=E, segment=seg_indices)
@@ -367,10 +399,10 @@ julia> contextualised_embedding = transformer[2](emb)
 
 ### Classifiers
 
-we also have loaded weight of MLM classifier and SOP classifier 
+we also have loaded weight of MLM classifier and SOP classifier used for pretraining
 
 ```julia
-julia> cls = transformer[3][1] #for mlm  tasked
+julia> cls = transformer[3][1] #for mlm  tasked and transformer[3][2] is pooler layer
 ```
 
 **output** 
