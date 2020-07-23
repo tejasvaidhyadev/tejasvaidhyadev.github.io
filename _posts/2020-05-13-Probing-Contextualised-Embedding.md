@@ -1,8 +1,8 @@
 ---
 title: Probing of Contextualized Embedding
 tags: [NLP, Probing, Transformer models]
-style: 
-color: 
+style: fill
+color: info
 description: Probing described in the paper "WHAT DO YOU LEARN FROM CONTEXT? PROBING FOR SENTENCE STRUCTURE IN CONTEXTUALIZED WORD REPRESENTATION"
 ---
 
