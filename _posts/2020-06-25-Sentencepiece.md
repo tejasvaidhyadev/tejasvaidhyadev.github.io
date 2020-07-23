@@ -2,7 +2,7 @@
 title: Divergence - Tale of Sentencepiece Library
 tags: [GSoC 2020, Sentencepiece, TextAnalysis, Tokenizer ]
 style: fill
-color: info
+color: secondary
 description: GSoC 2020-Blog#3 The blog is about detail explanation of Sentencepiece's unigram language model Algorithm. 
 ---
 
