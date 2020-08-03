@@ -97,7 +97,7 @@ ELMO encoder propagates a large amount of information about constituent, most of
 
 ELMo improvements it does bring are laregly due to long-range information
 
-{% include elements/button.html link="https://openreview.net/pdf?id=SJzSgnRcKX" text="Paper" block=true %}
+{% include elements/button.html link = "https://openreview.net/pdf?id=SJzSgnRcKX" text="Paper" block=true %}
 
 {% include elements/button.html link="https://github.com/nyu-mll/jiant" text="Code" block=true %}
 
