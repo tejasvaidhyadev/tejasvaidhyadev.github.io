@@ -2,6 +2,6 @@
 layout: default
 title: Resume
 weight: 3
-external_url: https://github.com/tejasvaidhyadev/CV/plob/master/
+external_url: https://github.com/tejasvaidhyadev/CV/blob/master/Resume.pdf
 ---
 
