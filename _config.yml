@@ -49,6 +49,9 @@ disqus: portfolio-bnhbmol6a5
 ### Posts ###
 permalink: /blog/:title
 
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
 
 ### Collections ###
 collections:
@@ -56,9 +59,6 @@ collections:
     output: true
     permalink: /projects/:name
   
-markdown: kramdown
-kramdown:
-   math_engine: mathjax
 
 ### Defaults for collections ###
 defaults:
