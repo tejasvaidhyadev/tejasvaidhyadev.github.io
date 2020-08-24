@@ -14,7 +14,7 @@ plugins:
 
 
 ### Navbar Settings ###
-nav_exclude:                                            # The following paths are excluded from navbar
+nav_exclude:                                            # The following path is excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
