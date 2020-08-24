@@ -7,6 +7,12 @@ baseurl             : ""                     # Change to empty quotes if you are
 remote_theme        : tejasvaidhyadev/portfolYOU       # theme 
 
 
+<!-- Initialize all tooltips -->
+<script>
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
+
 ### Plugins ###
 plugins:
   - jemoji
@@ -38,7 +44,7 @@ author:
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-# twitter           : your_username
+# twitter           : your_username1
 # vimeo             : your_username
 # youtube           : your_channel_namef
 
