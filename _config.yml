@@ -56,7 +56,9 @@ collections:
     output: true
     permalink: /projects/:name
   
-
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
 
 ### Defaults for collections ###
 defaults:
