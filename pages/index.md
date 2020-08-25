@@ -6,9 +6,8 @@ permalink: /
 
 ## **About Me**
 
-Hello, I am Tejas Vaidhya (you can also call me Dev):wave:,
-
- I am an Undergrad Researcher, Passionate Opensource developer, and a tech enthusiast. I am currently in my third year of Undergraduate studies, pursuing my major in Bachelor of Architecture and Planning and Minor in Mathematics and Computing at IIT Kharagpur. 
+Hello, I am Tejas Vaidhya (you can also call me Dev):wave:,<br>
+I am an Undergrad Researcher, Passionate Opensource developer, and a tech enthusiast. I am currently in my third year of Undergraduate studies, pursuing my major in Bachelor of Architecture and Planning and Minor in Mathematics and Computing at IIT Kharagpur. 
 
 My research interest lies in Computer vision and Natural language processing. Currently, I am researching on Probing techniques for Transformer based model.
 
