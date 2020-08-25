@@ -4,10 +4,6 @@ permalink: /
 ---
 {% include landing.html %}
 
-
-
-
-
 ## **About Me**
 
 Hello, I am Tejas Vaidhya (you can also call me Dev):wave:,
@@ -18,7 +14,7 @@ My research interest lies in Computer vision and Natural language processing. Cu
 
 I love Programming, Designing, and Planning (Afterall I am an architecture major). I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.
 
-<br>
+
 <br>
 
 <div class="row">
