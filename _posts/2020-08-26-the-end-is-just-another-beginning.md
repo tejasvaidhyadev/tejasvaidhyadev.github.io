@@ -85,20 +85,20 @@ The following packages are made as the part of Google summer of code
 3. Divergence -Tale of Sentencepiece Library,https://tejasvaidhyadev.github.io/blog/Sentencepiece
 4. First sight of albert, the land of Transformers,https://tejasvaidhyadev.github.io/blog/Hey-Albert
 
-{% endcapture %}
+{% endcapture %}describe
 {% include elements/list.html title="" %}
 
 **Future Goal :checkered_flag:**
 
 - I will be moving TextAnlaysis to Zygote based Flux version and Complete the [PR #209](https://github.com/JuliaText/TextAnalysis.jl/pull/209)
 
-- ROBERTA, With `TextAnalysis.ALBERT` and `Transformers` we alreay have everything to cast it
+- ROBERTA, With `TextAnalysis.ALBERT` and `Transformers` we already have everything to cast it
 
 I  would also like to work on other ecosystems of Julia Lang
 ### **Acknowledgement**
 
-I would like to thank **Google** and **JuliaLang** for giving me this amazing opportunity to meet amazing people of Julia computing and other open source contributor. I am also grateful to my mentor @Aviks (Avik Sengupta) and @Ayushk4 (Ayush Kaushal) for guiding me through my project. 
+I would like to thank **Google** and **JuliaLang** for giving me this amazing opportunity to meet the amazing people of Julia computing and other open source contributors. I am also grateful to my mentor @Aviks (Avik Sengupta) and @Ayushk4 (Ayush Kaushal) for guiding me through my project. 
 
-To sum up, I would like to call it **summer of learning**, this was the most productive summer in my life. I Learnt how to write a good software and better documentation
+To sum up, I would like to call it the** summer of learning**, this was the most productive summer in my life. I Learnt how to write good software and better documentation
 
-**Funfact**- The Title means I will keep walking on the road, writing software, experimenting with Machine learning Model, .... (and other 1000s of thing), may be making mistakes something and surely powering to Julia and other open source Community 
+**Fun fact**- The Title means I will keep walking on the road, writing software, experimenting with Machine learning Model, .... (and other 1000s of thing), maybe making mistakes something and surely powering to Julia and other open-source Community 
