@@ -58,7 +58,7 @@ The code for conversion can be found [here](https://github.com/tejasvaidhyadev/A
 
 ### 4. **ALBERT**
 
-`ALBERT` is "A Lite" version of BERT, a popular unsupervised language representation learning algorithm. ALBERT uses parameter-reduction techniques that allow for large-scale configurations, overcome previous memory limitations, and achieve better behavior with respect to model degradation. The Detail of `ALBERT `is describe in the my proposal
+`ALBERT` is "A Lite" version of BERT, a popular unsupervised language representation learning algorithm. ALBERT uses parameter-reduction techniques that allow for large-scale configurations, overcome previous memory limitations, and achieve better behavior with respect to model degradation. The Detail of `ALBERT `is describe in my proposal
 
 The code is reside in [TextAnalysis PR#203](https://github.com/JuliaText/TextAnalysis.jl/pull/203) and kept on hold until the TextAnalysis is shifted to Zygote based Flux 
 
