@@ -27,7 +27,7 @@ I worked on the following projects in GSoC
 | ALBERT.jl                    | completed           | [Github Repo]( https://github.com/tejasvaidhyadev/ALBERT.jl) |
 | GoogleDrive                  | completed           | [Github Repo]( https://github.com/tejasvaidhyadev/GoogleDrive.jl) |
 
-
+<br>
 
 ### 1. **Language Model Interface**
 
