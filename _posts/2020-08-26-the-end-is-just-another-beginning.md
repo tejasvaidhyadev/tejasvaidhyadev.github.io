@@ -109,7 +109,7 @@ The following packages are made as the part of Google summer of code
 I  would also like to work on other ecosystems of Julia Lang
 ### **Acknowledgement**
 
-I would like to thank **Google** and **JuliaLang** for giving me this amazing opportunity to meet the amazing people of Julia computing and other open source contributors. I am also grateful to my mentor @Aviks (Avik Sengupta) and @Ayushk4 (Ayush Kaushal) for guiding me through my project. 
+I would like to thank **Google** and **JuliaLang** for giving me this amazing opportunity to meet the most amazing people of Julia computing and other open source contributors. I am also grateful to my mentor @Aviks (Avik Sengupta) and @Ayushk4 (Ayush Kaushal) for guiding me through my project. 
 
 To sum up, I would like to call it the **summer of learning** , this was the most productive summer in my life. I Learnt how to write good software and better documentation
 
