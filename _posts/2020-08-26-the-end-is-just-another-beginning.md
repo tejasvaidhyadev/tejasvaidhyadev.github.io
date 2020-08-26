@@ -121,4 +121,4 @@ To sum up, I would like to call it the** summer of learning**, this was the most
 - [Transformers](https://github.com/chengchingwen) - Peter Cheng
 - [google-research/albert](https://github.com/google-research/albert)
 
-**Fun fact**- The Title means I will keep walking on the road, writing software, experimenting with Machine learning Model, .... (and other 1000s of thing), maybe making mistakes sometimes and surely powering to Julia and other open-source Community 
+**Fun fact**- The title indicates I will keep walking on the road, writing software, experimenting with Machine learning Model, .... (and other 1000s of thing), maybe making mistakes sometimes and surely powering to Julia and other open-source Community 
