@@ -16,6 +16,17 @@ The extraordinary journey of Google Summer of Code 2020 is coming to end. In thi
 Over the past few months, I continued working with the Julia Language in its NLP Ecosystem. Initially, I proposed Writing the ALBERT in my GSoC. Fortunately, extended [my proposal](https://docs.google.com/document/d/1ucxPM_UOytZVFcWIqZ9kS9gneDGDkcOBvkXA7lLwW28/edit?usp=sharing) to Statistical language model or Language model interface.
 
 I worked on the following projects in GSoC
+
+
+| Packages and PRs             | status              | open source code                                             |
+| ---------------------------- | :------------------ | :----------------------------------------------------------- |
+| Language Model Interface     | Approved            | [PR#210](https://github.com/JuliaText/TextAnalysis.jl/pull/210) |
+| Statistical Tokenizer        | Approved and merged | [PR#51]( https://github.com/JuliaText/WordTokenizers.jl/pull/51) |
+| Converting Tf weight to BSON | Released            | [Gist]( https://gist.github.com/tejasvaidhyadev/6c10bdda1f60c3e42472d356ecf3721a) |
+| ALBERT                       | completed           | [PR#203]( https://github.com/JuliaText/TextAnalysis.jl/pull/203/files) |
+| ALBERT.jl                    | completed           | [Github Repo]( https://github.com/tejasvaidhyadev/ALBERT.jl) |
+| GoogleDrive                  | completed           | [Github Repo]( https://github.com/tejasvaidhyadev/GoogleDrive.jl) |
+
 ### 1. **Language Model Interface**
 
 In the first phase of Google Summer of Code, I implemented the [Language Model Interface](https://github.com/JuliaText/TextAnalysis.jl/pull/210). It provides implemented well-known Langauge models and Framework to create your own Language model with high-level APIs,  which is complete and reviewed by my mentors. 
@@ -23,13 +34,13 @@ The blog on the same can be found [here](https://tejasvaidhyadev.github.io/blog/
 
 ### 2. **Statistical Tokenizer** 
 
-`SentencePiece` is a re-implementation of sub-word units, an effective way to alleviate the open vocabulary problems in neural machine translation. SentencePiece supports two segmentation algorithms, byte-pair-encoding (BPE) [Sennrich et al.] and unigram language model
+`SentencePiece` is a re-implementation of sub-word units, an effective way to alleviate the open vocabulary problems in neural machine translation. SentencePiece supports two segmentation algorithms, byte-pair-encoding (BPE) [Sennrich et al.] and unigram language model.
 I have implemented the Sentencepiece Encoder to help Julia users in WordTokenizer. 
 The implementation is described in the blog: **[Divergence - Tale of Sentencepiece Library](https://tejasvaidhyadev.github.io/blog/Sentencepiece)** and `code` can be found [**here**](https://github.com/JuliaText/WordTokenizers.jl/pull/51/commits)
 
 ### 3. **Converting Tensorflow weight to Desire Julia Format**
 
-We have converted Tensorflow weights release by Google Release to the following BSON files
+We have converted Tensorflow weights release by Google Research to the following BSON files
 
 {% capture list_items %}
 base v1,https://drive.google.com/drive/u/1/folders/1HHTlS_jBYRE4cG0elITEH7fAkiNmrEgz
@@ -57,7 +68,7 @@ The code for conversion can be found [here](https://github.com/tejasvaidhyadev/A
 
 `ALBERT` is "A Lite" version of BERT, a popular unsupervised language representation learning algorithm. ALBERT uses parameter-reduction techniques that allow for large-scale configurations, overcome previous memory limitations, and achieve better behavior with respect to model degradation. The Detail of `ALBERT `is describe in my proposal
 
-The code is reside in [TextAnalysis PR#203](https://github.com/JuliaText/TextAnalysis.jl/pull/203) and kept on hold until the TextAnalysis is shifted to Zygote based Flux 
+The code reside in [TextAnalysis PR#203](https://github.com/JuliaText/TextAnalysis.jl/pull/203) and kept on hold until the TextAnalysis is shifted to Zygote-based Flux 
 
 I have written the Blogs  [**First sight of albert, the land of Transformers**](https://tejasvaidhyadev.github.io/blog/Hey-Albert)  and the following tutorial for ALBERT
 
@@ -92,7 +103,7 @@ The following packages are made as the part of Google summer of code
 
 - I will be moving TextAnlaysis to Zygote based Flux version and Complete the [PR #209](https://github.com/JuliaText/TextAnalysis.jl/pull/209)
 
-- ROBERTA, With `TextAnalysis.ALBERT` and `Transformers` we already have everything to cast it
+- ROBERTA, With `TextAnalysis.ALBERT` and `Transformers`, we already have everything to cast it
 
 I  would also like to work on other ecosystems of Julia Lang
 ### **Acknowledgement**
@@ -101,4 +112,12 @@ I would like to thank **Google** and **JuliaLang** for giving me this amazing op
 
 To sum up, I would like to call it the** summer of learning**, this was the most productive summer in my life. I Learnt how to write good software and better documentation
 
-**Fun fact**- The Title means I will keep walking on the road, writing software, experimenting with Machine learning Model, .... (and other 1000s of thing), maybe making mistakes something and surely powering to Julia and other open-source Community 
+
+### **References**
+
+- [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations ](https://arxiv.org/abs/1909.11942)- Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut
+- [Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates](https://arxiv.org/abs/1804.10959) - Kudo
+- [Transformers](https://github.com/chengchingwen) - Peter Cheng
+- [google-research/albert](https://github.com/google-research/albert)
+
+**Fun fact**- The Title means I will keep walking on the road, writing software, experimenting with Machine learning Model, .... (and other 1000s of thing), maybe making mistakes sometimes and surely powering to Julia and other open-source Community 
