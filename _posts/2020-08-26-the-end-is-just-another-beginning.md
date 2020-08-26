@@ -78,7 +78,7 @@ a. Fine-tuning,https://github.com/tejasvaidhyadev/ALBERT.jl/blob/master/docs/Tra
 b. Pre-training,https://github.com/tejasvaidhyadev/ALBERT.jl/blob/master/docs/Pretraining_Tutorial(ALBERT).ipynb
 
 {% endcapture %}
-{% include elements/list.html title="ALBERT Transformers Tutorial" %}
+{% include elements/list.html title="ALBERT Transformer Tutorials" %}
 <br>
 **Other Packages**
 
