@@ -30,7 +30,8 @@ I worked on the following projects in GSoC
 ### 1. **Language Model Interface**
 
 In the first phase of Google Summer of Code, I implemented the [Language Model Interface](https://github.com/JuliaText/TextAnalysis.jl/pull/210). It provides implemented well-known Langauge models and Framework to create your own Language model with high-level APIs,  which is complete and reviewed by my mentors. 
-The blog on the same can be found [here](https://tejasvaidhyadev.github.io/blog/First-Milestone).
+The blog on the same is [here](https://tejasvaidhyadev.github.io/blog/First-Milestone).
+
 
 ### 2. **Statistical Tokenizer** 
 
