@@ -97,7 +97,7 @@ The following packages are made as the part of Google summer of code
 3. Divergence -Tale of Sentencepiece Library,https://tejasvaidhyadev.github.io/blog/Sentencepiece
 4. First sight of albert, the land of Transformers,https://tejasvaidhyadev.github.io/blog/Hey-Albert
 
-{% endcapture %}describe
+{% endcapture %}
 {% include elements/list.html title="" %}
 
 **Future Goal :checkered_flag:**
