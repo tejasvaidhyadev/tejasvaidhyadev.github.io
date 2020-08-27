@@ -92,7 +92,7 @@ The following packages are made as the part of Google Summer of Code
 {% endcapture %}
 {% include elements/list.html %}
 
-The following blogs are made as part of Google Summer of Code
+The following blogs are written by me as part of Google Summer of Code
 {% capture list_items %}
 
 1.  Hitting the road,https://tejasvaidhyadev.github.io/blog/Hitting-the-road
