@@ -82,15 +82,13 @@ b. Pre-training,https://github.com/tejasvaidhyadev/ALBERT.jl/blob/master/docs/Pr
 {% endcapture %}
 {% include elements/list.html title="ALBERT Transformer Tutorials" %}
 <br>
-### **Other Packages**
+### **Other Packages and Blogs**
 
 The following packages are made as the part of Google Summer of Code
 
 - [GoogleDrive](https://github.com/tejasvaidhyadev/GoogleDrive.jl)
 - [ALBERT.jl](https://github.com/tejasvaidhyadev/ALBERT.jl) 
 
-
-### **List of the Blogs**
 
 The following blogs are made as part of Google Summer of Code
 {% capture list_items %}
@@ -101,7 +99,7 @@ The following blogs are made as part of Google Summer of Code
 4. First sight of albert, the land of Transformers,https://tejasvaidhyadev.github.io/blog/Hey-Albert
 
 {% endcapture %}
-{% include elements/list.html title="" %}
+{% include elements/list.html %}
 
 ### **Future Goal :checkered_flag:**
 
