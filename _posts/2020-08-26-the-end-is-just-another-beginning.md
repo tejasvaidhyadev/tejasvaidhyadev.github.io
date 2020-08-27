@@ -73,7 +73,7 @@ The code for conversion can be found [here](https://github.com/tejasvaidhyadev/A
 
 The code reside in [TextAnalysis PR#203](https://github.com/JuliaText/TextAnalysis.jl/pull/203) and kept on hold until the TextAnalysis is shifted to Zygote-based Flux 
 
-I have written the Blogs  [**First sight of albert, the land of Transformers**](https://tejasvaidhyadev.github.io/blog/Hey-Albert)  and the following tutorial for ALBERT
+I have written the Blog:  [**First sight of albert, the land of Transformers**](https://tejasvaidhyadev.github.io/blog/Hey-Albert)  and the following tutorial for ALBERT
 
 {% capture list_items %}
 a. Fine-tuning,https://github.com/tejasvaidhyadev/ALBERT.jl/blob/master/docs/Training_fine-tunning_%20tutorial.ipynb
@@ -82,16 +82,17 @@ b. Pre-training,https://github.com/tejasvaidhyadev/ALBERT.jl/blob/master/docs/Pr
 {% endcapture %}
 {% include elements/list.html title="ALBERT Transformer Tutorials" %}
 <br>
-**Other Packages**
+### **Other Packages**
 
-The following packages are made as the part of Google summer of code
+The following packages are made as the part of Google Summer of Code
 
 - [GoogleDrive](https://github.com/tejasvaidhyadev/GoogleDrive.jl)
 - [ALBERT.jl](https://github.com/tejasvaidhyadev/ALBERT.jl) 
 
 
-**List of the Blogs**
+### **List of the Blogs**
 
+The following blogs are made as part of Google Summer of Code
 {% capture list_items %}
 
 1.  Hitting the road,https://tejasvaidhyadev.github.io/blog/Hitting-the-road
@@ -102,13 +103,14 @@ The following packages are made as the part of Google summer of code
 {% endcapture %}
 {% include elements/list.html title="" %}
 
-**Future Goal :checkered_flag:**
+### **Future Goal :checkered_flag:**
 
 - I will be moving TextAnlaysis to Zygote based Flux version and Complete the [PR #209](https://github.com/JuliaText/TextAnalysis.jl/pull/209)
 
 - ROBERTA, With `TextAnalysis.ALBERT` and `Transformers`, we already have everything to cast it
 
 I  would also like to work on other ecosystems of Julia Lang
+<br>
 ### **Acknowledgement**
 
 I would like to thank **Google** and **JuliaLang** for giving me this amazing opportunity to meet the most amazing people of Julia computing and other open source contributors. I am also grateful to my mentor @Aviks (Avik Sengupta) and @Ayushk4 (Ayush Kaushal) for guiding me through my project. 
@@ -122,5 +124,7 @@ To sum up, I would like to call it the **summer of learning** , this was the mos
 - [Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates](https://arxiv.org/abs/1804.10959) - Kudo
 - [Transformers](https://github.com/chengchingwen) - Peter Cheng
 - [google-research/albert](https://github.com/google-research/albert)
+- [Neural Machine Translation of Rare Words with Subword Units
+](https://arxiv.org/abs/1508.07909) - Rico Sennrich, Barry Haddow, Alexandra Birch
 
 **Fun fact**- The title indicates I will keep walking on the road, writing software, experimenting with Machine learning Model, .... (and other 1000s of thing), maybe making mistakes sometimes and surely powering to Julia and other open-source Community 
