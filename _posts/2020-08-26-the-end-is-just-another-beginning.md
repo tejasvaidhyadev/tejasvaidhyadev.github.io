@@ -86,9 +86,11 @@ b. Pre-training,https://github.com/tejasvaidhyadev/ALBERT.jl/blob/master/docs/Pr
 
 The following packages are made as the part of Google Summer of Code
 
-- [GoogleDrive](https://github.com/tejasvaidhyadev/GoogleDrive.jl)
-- [ALBERT.jl](https://github.com/tejasvaidhyadev/ALBERT.jl) 
-
+{% capture list_items %}
+- GoogleDrive,https://github.com/tejasvaidhyadev/GoogleDrive.jl
+- ALBERT.jl,https://github.com/tejasvaidhyadev/ALBERT.jl 
+{% endcapture %}
+{% include elements/list.html %}
 
 The following blogs are made as part of Google Summer of Code
 {% capture list_items %}
