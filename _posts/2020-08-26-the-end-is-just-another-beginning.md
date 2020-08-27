@@ -105,9 +105,9 @@ The following blogs are made as part of Google Summer of Code
 
 ### **Future Goal :checkered_flag:**
 
-- I will be moving TextAnlaysis to Zygote based Flux version and Complete the [PR #209](https://github.com/JuliaText/TextAnalysis.jl/pull/209)
+1. I will be moving TextAnlaysis to Zygote based Flux version and Complete the [PR #209](https://github.com/JuliaText/TextAnalysis.jl/pull/209)
 
-- ROBERTA, With `TextAnalysis.ALBERT` and `Transformers`, we already have everything to cast it
+2. ROBERTA, With `TextAnalysis.ALBERT` and `Transformers`, we already have everything to cast it
 
 I  would also like to work on other ecosystems of Julia Lang
 <br>
