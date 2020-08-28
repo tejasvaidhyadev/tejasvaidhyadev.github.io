@@ -3,7 +3,7 @@ title: The end is just another beginning
 tags: [GSoC 2020, Summary, TextAnalysis, WordTokenizer, GoogleDrive]
 style: fill
 color: secondary
-description: GSoC 2020-Blog#5 In this blog I will be summarising my GSoC-2020 journey
+description: GSoC 2020-Blog#5 In this blog, I will be summarising my GSoC-2020 journey.
 comments: true
 ---
 
