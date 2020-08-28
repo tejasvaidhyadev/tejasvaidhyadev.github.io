@@ -105,9 +105,9 @@ The following blogs are written by me as part of Google Summer of Code
 
 ### **Future Goal :checkered_flag:**
 
-- I will be moving TextAnlaysis to Zygote based Flux version and Complete the [PR #209](https://github.com/JuliaText/TextAnalysis.jl/pull/209)
+- Moving TextAnlaysis to Zygote-based-Flux version and Complete the [PR #209](https://github.com/JuliaText/TextAnalysis.jl/pull/209)
 
-- ROBERTA, With `TextAnalysis.ALBERT` and `Transformers`, we already have everything to cast it
+- Implementing ROBERTA, With `TextAnalysis.ALBERT` and `Transformers`, we already have everything to cast it
 
 I  would also like to work on other ecosystems of Julia Lang
 <br>
@@ -115,7 +115,7 @@ I  would also like to work on other ecosystems of Julia Lang
 
 I would like to thank **Google** and **JuliaLang** for giving me this amazing opportunity to meet the most amazing people of Julia computing and other open source contributors. I am also grateful to my mentor @Aviks (Avik Sengupta) and @Ayushk4 (Ayush Kaushal) for guiding me through my project. 
 
-To sum up, I would like to call it the **summer of learning** , this was the most productive summer in my life. I Learnt how to write good software and better documentation
+To sum up, I would like to call it the **summer of learning** , this was the most productive summer in my life. I Learnt how to write good software and better documentation. Looking back, it feels that these past four months passed way too quickly. I still remember anticipating for proposal acceptance results like it was yesterday.
 
 
 ### **References**
