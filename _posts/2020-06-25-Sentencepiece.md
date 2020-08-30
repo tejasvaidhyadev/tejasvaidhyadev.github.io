@@ -1,6 +1,6 @@
 ---
 title: Divergence - Tale of Sentencepiece Library
-tags: [GSoC 2020, Sentencepiece, TextAnalysis, Tokenizer ]
+tags: [GSoC 2020, Sentencepiece, TextAnalysis, Tokenizer ]updating
 style: fill
 color: secondary
 description: GSoC 2020-Blog#3 The blog is about detail explanation of Sentencepiece's unigram language model Algorithm. 
@@ -167,7 +167,7 @@ As we already completed all the pre-processing component for ALBERT. We can star
 - [Julia Language](https://julialang.org/)
 - [sentencepiece library](https://github.com/google/sentencepiece)
 - [Sennrich et al.](https://arxiv.org/abs/1508.07909)  
-- unigram language model [Kudo.](https://arxiv.org/abs/1804.10959)
+- [Kudo.](https://arxiv.org/abs/1804.10959)
 
 <br>
 **funfact**: All my GSoC blogs are titled as I am walking on the road. yes, you guess it right there will be blog with title "Road Not Taken" at the end
