@@ -18,7 +18,7 @@ References
 <br>
 # What is SentencePiece?
 {% include elements/figure.html image="https://raw.githubusercontent.com/tejasvaidhyadev/Portfolio/gh-pages/_images/sentencepiece.jpg" caption="Sentencepiece" %}
-SentencePiece is a re-implementation of sub-word units, an effective way to alleviate the open vocabulary problems in neural machine translation. SentencePiece supports two segmentation algorithms, byte-pair-encoding (BPE) [Sennrich et al.] and unigram language model [Kudo.](https://arxiv.org/abs/1808.06226)
+SentencePiece is a re-implementation of sub-word units, an effective way to alleviate the open vocabulary problems in neural machine translation. SentencePiece supports two segmentation algorithms, byte-pair-encoding [Sennrich et al.](https://arxiv.org/abs/1508.07909) and unigram language model [Kudo.](https://arxiv.org/abs/1804.10959)
 <br>
 ## why Sentencepiece are different from others
  - It has fixed vocabulary, unlike most unsupervised word segmentation algorithms
@@ -166,6 +166,8 @@ As we already completed all the pre-processing component for ALBERT. We can star
 - [A rust](https://myzigyasa.com/post/rust/104/a-rust-sentencepiece-implementation)
 - [Julia Language](https://julialang.org/)
 - [sentencepiece library](https://github.com/google/sentencepiece)
+- [Sennrich et al.](https://arxiv.org/abs/1508.07909)  
+- unigram language model [Kudo.](https://arxiv.org/abs/1804.10959)
 
 <br>
 **funfact**: All my GSoC blogs are titled as I am walking on the road. yes, you guess it right there will be blog with title "Road Not Taken" at the end
