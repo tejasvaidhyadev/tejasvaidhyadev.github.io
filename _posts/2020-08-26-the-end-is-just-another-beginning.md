@@ -103,7 +103,7 @@ The following blogs are written by me as part of Google Summer of Code
 {% endcapture %}
 {% include elements/list.html %}
 
-### **Future Goal **
+### **Future Goal**
 
 - Moving TextAnlaysis to Zygote-based-Flux version and Complete the [PR #209](https://github.com/JuliaText/TextAnalysis.jl/pull/209)
 
