@@ -2,7 +2,7 @@
 title: First Milestone
 tags: [GSoC 2020, Language Models, TextAnalysis ]
 style: fill
-color: secondary
+color: light
 description: GSoC 2020-Blog#2 Introduction of Statistical Language model of TextAnalysis.jl.
 ---
 
@@ -19,7 +19,7 @@ I started by reading about SentencePiece's Unigram for ALBERT. Apart from that I
 
 - **Neural Language Models**: These are relatively new Methods in the NLP town and have surpassed the statistical language models in their effectiveness. They use different kinds of Neural Networks to model language. We will be discussing about it in next bolg.
 
- 
+
 ## Implementation of Statistical Language Model
 
 I am proud :smiley: to announce our [Statistical Language Model Framework](https://github.com/JuliaText/TextAnalysis.jl/pull/210) in TextAnalysis.jl inspired from [NLTK.lm](https://www.nltk.org/api/nltk.lm.html).
@@ -119,9 +119,9 @@ Arguments:
 3. `word`: string of word 
 4. `context`: context of given word
 
-​	In case of Lidstone and Laplace it apply smoothing and, 
+		In case of Lidstone and Laplace it apply smoothing and, 
 
-​	In Interpolated language model, provide Kneserney and WittenBell smoothing  
+		In Interpolated language model, provide Kneserney and WittenBell smoothing  
 
 #### `maskedscore` 
 

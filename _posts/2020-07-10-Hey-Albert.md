@@ -1,9 +1,8 @@
 ---
-
 title: First sight of albert, the land of Transformers
 tags: [GSoC 2020, ALBERT, TextAnalysis, Transformers ]
 style: fill
-color: secondary
+color: light
 description: GSoC 2020-Blog#4 The blog is about present development of ALBERT model in TextAnlaysis.
 
 ---
@@ -53,7 +52,7 @@ ALBERT uses a factorization of the embedding parameters, decomposing them into t
 weight-sharing has an effect on stabilizing network parameters. Although there is a drop for both metrics compared to BERT, they nevertheless do not converge to 0 even after 24 layers. This shows that the solution space for ALBERT parameters is very different from the one found by DQE.
 
 ##### 3. Inter-sentence coherence loss 
- 
+
 >In Original BERT, creating is-not-next (negative) two sentences with randomly picking, however ALBERT uses negative examples the same two consecutive segments but with their order swapped:
 
 
