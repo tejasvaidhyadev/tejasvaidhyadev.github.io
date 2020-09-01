@@ -27,8 +27,8 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
 {% include projects/index.html %}
 {% include elements/button.html link="projects/" text="Read More " block=true %}
-#### You can check out the other things I do [here](Random/)
 
+#### You can check out the other things I do [here](Random/)
 
 
 <br>
