@@ -7,7 +7,7 @@ description: GSoC 2020-Blog#5 In this blog, I will be summarising my GSoC-2020 j
 comments: true
 ---
 
-Hello there :wave:,
+Hello there,
 
 The extraordinary journey of Google Summer of Code 2020 is coming to end. In this post, I will be summarizing my GSoC journey and the work done so far with Future goals and milestones
 
