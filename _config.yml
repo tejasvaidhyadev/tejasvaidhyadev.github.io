@@ -81,5 +81,5 @@ exclude:
   - LICENSE
   - "*.log"
 
-# gems:
-#  - jekyll-sitemap
+ gems:
+  - jekyll-sitemap
