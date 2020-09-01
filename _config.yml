@@ -82,4 +82,4 @@ exclude:
   - "*.log"
 
 gems:
-- jekyll-sitemap
+  - jekyll-sitemap
