@@ -31,7 +31,7 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 ## **Publications**
 
 - **Leveraging Event Specific and Chunk Span information to Extract COVID Events from Tweets**  
-  Ayush Kaushal * **and Tejas Vaidhya\***  
+  Ayush Kaushal * and **Tejas Vaidhya\***  
   (To appear *EMNLP 2020 Noisy User Generated Text Workshop*)  
 
 <br>
