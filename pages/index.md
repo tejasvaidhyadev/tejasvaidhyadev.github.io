@@ -20,7 +20,8 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
 ## **NEWS**
 
-- *1 October 2020*: 1 paper accepted to EMNLP 2020, Workshop on Noisy User-generated Text.
+- *6 October 2020*: 2nd paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
+- *1 October 2020*: 1st paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
 - *12 September 2020*: Ranked 1st at the leaderboard for EMNLP 2020, W-NUT workshop Shared Task 3 on Extracting COVID Events from tweets.
 - *31 August 2020*: Completed wonderful summer at [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2020/projects/4810193256316928/)
 
@@ -32,6 +33,10 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
 - **Leveraging Event Specific and Chunk Span information to Extract COVID Events from Tweets**  
   Ayush Kaushal * and **Tejas Vaidhya\***  
+  (To appear *EMNLP 2020 Noisy User Generated Text Workshop*)
+  
+- **Domain specific BERT representation for Named Entity Recognition of lab protocol**  
+  **Tejas Vaidhya\*** and Ayush Kaushal *  
   (To appear *EMNLP 2020 Noisy User Generated Text Workshop*)  
 
 <br>
