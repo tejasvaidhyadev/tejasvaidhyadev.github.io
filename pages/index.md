@@ -33,11 +33,11 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
 - **Leveraging Event Specific and Chunk Span information to Extract COVID Events from Tweets**  
   Ayush Kaushal and **Tejas Vaidhya**  
-  (To appear *EMNLP 2020 Noisy User Generated Text Workshop*)
+  (To appear *EMNLP 2020 Noisy User Generated Text Workshop*, [Preprint]({{ site.url }}/assets/91_Paper.pdf)) 
   
 - **Domain specific BERT representation for Named Entity Recognition of lab protocol**  
   **Tejas Vaidhya** and Ayush Kaushal   
-  (To appear *EMNLP 2020 Noisy User Generated Text Workshop*)  
+  (To appear *EMNLP 2020 Noisy User Generated Text Workshop*, [Preprint]({{ site.url }}/assets/92_Paper.pdf)) 
 
 <br>
 <br>
