@@ -20,7 +20,7 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
 ## **NEWS**
 
-- *7 Jan 2021*: Paper accepted, Hostility Detection in Hindi leveraging Pre-Trained Language Models for the CONSTRAINT workshop, collocated with AAAI 2021
+- *7 Jan 2021*: Paper accepted for the CONSTRAINT workshop, collocated with AAAI 2021
 - *6 October 2020*: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
 - *1 October 2020*: 1st paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
 - *12 September 2020*: Ranked 1st at the leaderboard for EMNLP 2020, W-NUT workshop Shared Task 3 on Extracting COVID Events from tweets.
