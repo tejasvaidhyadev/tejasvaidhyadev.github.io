@@ -34,14 +34,13 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
 - **Leveraging Event Specific and Chunk Span information to Extract COVID Events from Tweets**  
   Ayush Kaushal and **Tejas Vaidhya**  
-  (Published in appear *EMNLP 2020 Noisy User Generated Text Workshop*, [Paper]({{ site.url }}/assets/91_Paper.pdf)) 
+  (Published in *EMNLP 2020 Noisy User Generated Text Workshop*, [Paper](https://www.aclweb.org/anthology/2020.wnut-1.79/) 
 - **Domain specific BERT representation for Named Entity Recognition of lab protocol**  
   **Tejas Vaidhya** and Ayush Kaushal   
-  ( Published in *EMNLP 2020 Noisy User Generated Text Workshop*, [paper]({{ site.url }}/assets/92_Paper.pdf)) 
+  ( Published in *EMNLP 2020 Noisy User Generated Text Workshop*, [paper](https://www.aclweb.org/anthology/2020.wnut-1.34/) 
 - **Hostility Detection in Hindi leveraging Pre-Trained Language Models**  
 Ojasv Kamal, Adarsh Kumar, and **Tejas Vaidhya**   
 ( To appear in *AAAI 2021*, [Preprint](https://arxiv.org/pdf/2101.05494.pdf)) 
-
 
 
  <br>
