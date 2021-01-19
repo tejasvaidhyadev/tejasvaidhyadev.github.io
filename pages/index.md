@@ -20,7 +20,7 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
 ## **NEWS**
 
-- *7 Jan 2021*: Paper accepted for the CONSTRAINT workshop, collocated with AAAI 2021
+- *7 Jan 2021*: Paper accepted for the [CONSTRAINT](https://constraint-shared-task-2021.github.io/) workshop, collocated with AAAI 2021
 - *6 October 2020*: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
 - *1 October 2020*: 1st paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
 - *12 September 2020*: Ranked 1st at the leaderboard for EMNLP 2020, W-NUT workshop Shared Task 3 on Extracting COVID Events from tweets.
@@ -34,13 +34,18 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
 - **Leveraging Event Specific and Chunk Span information to Extract COVID Events from Tweets**  
   Ayush Kaushal and **Tejas Vaidhya**  
-  (To appear *EMNLP 2020 Noisy User Generated Text Workshop*, [Preprint]({{ site.url }}/assets/91_Paper.pdf)) 
-  
+  (Published in appear *EMNLP 2020 Noisy User Generated Text Workshop*, [Paper]({{ site.url }}/assets/91_Paper.pdf)) 
+
 - **Domain specific BERT representation for Named Entity Recognition of lab protocol**  
   **Tejas Vaidhya** and Ayush Kaushal   
-  (To appear *EMNLP 2020 Noisy User Generated Text Workshop*, [Preprint]({{ site.url }}/assets/92_Paper.pdf)) 
+  ( Published in *EMNLP 2020 Noisy User Generated Text Workshop*, [paper]({{ site.url }}/assets/92_Paper.pdf)) 
 
-<br>
+- **Hostility Detection in Hindi leveraging Pre-Trained Language Models**
+
+  **Tejas Vaidhya** and Ayush Kaushal   
+  ( To appear in *AAAI 2021*, [Preprint](https://arxiv.org/pdf/2101.05494.pdf)) 
+
+****<br>
 <br>
 
 <div class="row">
