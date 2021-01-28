@@ -69,9 +69,9 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 ```
 <li><a target="_blank" href="https://arxiv.org/pdf/2101.05494.pdf">
           "Hostility Detection in Hindi leveraging Pre-Trained Language Models"</a>, Ojasv Kamal, Adarsh Kumar, and Tejas Vaidhya <br>
-          <i> <b><u>Oral Presentation</u></b> at the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP)</i> <u><b>Shared Task Winners</b></u><a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#covid"><u>More</u> </a>
+          <i> <b><u>Oral Presentation</u></b> at the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP)</i> <u><b>Shared Task Winners</b></u><a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#fakenews"><u>More</u> </a>
   </li>
-    <div id="covid" class="collapse" style="font-size:15px;margin:50px">Hostile content on social platforms is ever increasing. This
+    <div id="fewnews" class="collapse" style="font-size:15px;margin:50px">Hostile content on social platforms is ever increasing. This
 has led to the need for proper detection of hostile posts so that appropriate action can be taken to tackle them. Though a lot of work has been
 done recently in the English Language to solve the problem of hostile
 content online, similar works in Indian Languages are quite hard to find.
