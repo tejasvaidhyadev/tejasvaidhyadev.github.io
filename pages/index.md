@@ -47,8 +47,6 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
   ​
 
-  <ul style="font-size:20px;margin:50px">
-
   ​
 
   ```
