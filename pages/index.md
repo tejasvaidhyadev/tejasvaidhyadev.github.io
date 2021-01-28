@@ -44,8 +44,6 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
   </div>
     <br>
 ```
-
-
 ```
 <li><a target="_blank" href="https://www.aclweb.org/anthology/2020.wnut-1.34.pdf">
           "Domain specific BERT representation for Named Entity Recognition of lab protocol."</a>, Tejas Vaidhya and Ayush Kaushal <br>
@@ -62,7 +60,6 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
     </div>
     <br>
 ```
-
 ```
 <li><a target="_blank" href="https://arxiv.org/pdf/2101.05494.pdf">
           "Hostility Detection in Hindi leveraging Pre-Trained Language Models"</a>, Ojasv Kamal, Adarsh Kumar, and Tejas Vaidhya <br>
