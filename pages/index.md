@@ -47,7 +47,7 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
   ​
 
-  ​
+  <ul>
 
   ```
   <li><a target="_blank" href="https://www.aclweb.org/anthology/2020.wnut-1.79.pdf">
