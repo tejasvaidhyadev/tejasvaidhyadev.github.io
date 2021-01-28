@@ -34,7 +34,6 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 ## **Publications**
 
 <ul>
-
 ```
 <li><a target="_blank" href="https://www.aclweb.org/anthology/2020.wnut-1.79.pdf">
           "Leveraging Event Specific and Chunk Span features to Extract COVID Events from tweets"</a>, Ayush Kaushal and Tejas Vaidhya <br>
@@ -63,8 +62,6 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
     </div>
     <br>
 ```
-
-
 
 ```
 <li><a target="_blank" href="https://arxiv.org/pdf/2101.05494.pdf">
