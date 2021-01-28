@@ -61,7 +61,7 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
 <li><a target="_blank" href="https://arxiv.org/pdf/2101.05494.pdf">
           "Hostility Detection in Hindi leveraging Pre-Trained Language Models"</a>, Ojasv Kamal, Adarsh Kumar, and Tejas Vaidhya <br>
-          <i> <b><u>Oral Presentation</u></b> at the CONSTRAINT workshop at ADVANCEMENT OF ARTIFICIAL INTELLIGENCE</i> <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#fakenews"><u>More</u> </a>
+          <i> <b><u>Oral Presentation</u></b> at the Constraint workshop at Advancement Of Artificial Intelligence</i> <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#fakenews"><u>More</u> </a>
   </li>
     <div id="fakenews" class="collapse" style="font-size:15px;margin:50px">Hostile content on social platforms is ever increasing. ThisCONSTRAINT workshop at AAAI
 has led to the need for proper detection of hostile posts so that appropriate action can be taken to tackle them. Though a lot of work has been
