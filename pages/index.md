@@ -9,7 +9,7 @@ permalink: /
 Hello, I am Tejas Vaidhya (you can also call me Dev),<br>
 I am an Undergrad Researcher, Passionate Opensource developer, and a tech enthusiast. I am currently in my third year of Undergraduate studies, pursuing my major in Bachelor of Architecture and Planning and Minor in Mathematics and Computing at IIT Kharagpur. 
 
-My research interest lies in Computer vision and Natural language processing. Currently, I am researching on Probing techniques for Transformer based model.
+My research interest lies in Computer vision and Natural language processing. Currently, I am working in the intersection of Generative deeplearning  and Architecture Planning.
 
 I love Programming, Designing, and Planning (Afterall I am an architecture major). I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.
 
@@ -18,7 +18,7 @@ I love Programming, Designing, and Planning (Afterall I am an architecture major
 
 
 
-## **NEWS**
+## **News !**
 
 - **7 Jan 2021**: Paper accepted for the [CONSTRAINT](https://constraint-shared-task-2021.github.io/) workshop, collocated with AAAI 2021
 - **6 October 2020**: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
