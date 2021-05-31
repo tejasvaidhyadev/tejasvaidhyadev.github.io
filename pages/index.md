@@ -106,6 +106,7 @@ ___
 
 <br>
 <div align="center" style="font-size: 80%">
+
 	<i>iamtejasvaidhya@iitkgp.ac.in</i><br>
 	<i>+91 9340004079</i>
 </div>
