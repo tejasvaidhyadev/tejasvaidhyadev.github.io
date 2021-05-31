@@ -4,19 +4,17 @@ permalink: /
 ---
 {% include landing.html %}
 
+<br>
+<br>
 ## **About Me**
 
-Hello, I am Tejas Vaidhya (you can also call me Dev),<br>
-I am an Undergrad Researcher, Passionate Opensource developer, and a tech enthusiast. I am currently in my third year of Undergraduate studies, pursuing my major in Bachelor of Architecture and Planning and Minor in Mathematics and Computing at IIT Kharagpur. 
+Hello, I'm Tejas Vaidhya (you can also call me Dev),  
 
-My research interest lies in Computer vision and Natural language processing. Currently, I am working in the intersection of Generative deeplearning  and Architecture Planning.
+I am an Undergrad Researcher. I am currently in my senior year of Undergraduate studies, pursuing my major in Bachelor of Architecture and Planning and Minor in Mathematics and Computing at IIT Kharagpur. My research interest lies in Causality and Natural language processing. 
 
-I love Programming, Designing, and Planning (Afterall I am an architecture major). I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.
+I love Programming, Designing, and Planning. I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.
 
 <br>
-<br>
-
-
 
 ## **News !**
 
@@ -83,28 +81,29 @@ F1 Score1. <br> <br>
 
 
 </ul>
-
+___
 <br>
 
+## **Experience**
 <div class="row">
-{% include about/timeline.html title="Experience" source=site.data.education-timeline %}
+{% include about/timeline.html title="" source=site.data.education-timeline %}
 </div >
-*details of projects can be found* [here](projects/)
+*details of projects can be found* [here](projects/)  
 
+___
 <br>
-<br>
-### Curated Projects      
+
+## **Selected Projects**      
 
 {% include projects/index.html %}
 {% include elements/button.html link="projects/" text="Read More " block=true %}
 
-#### You can check out the other things I do [here](Random/)
+___
 
+You can check out the other things I do [here](Random/)
 
-<br>
-<br>
+___
 
-<br>
 <br>
 <div align="center" style="font-size: 80%">
 	<i>iamtejasvaidhya@iitkgp.ac.in</i><br>

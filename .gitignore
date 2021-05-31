@@ -3,3 +3,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+_includes
+_sass
+assets/css/
+assets/js
+assets/favicon.ico
+_layouts
+404.html
+
