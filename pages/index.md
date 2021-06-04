@@ -8,18 +8,19 @@ permalink: /
 <br>
 ## **About Me**
 
-<br>
 Hello, I'm Tejas Vaidhya (you can also call me Dev),  
 
 I am an Undergrad Researcher. I am currently in my senior year of Undergraduate studies, pursuing my major in Bachelor of Architecture and Planning and Minor in Mathematics and Computing at IIT Kharagpur. My research interest lies in Causality and Natural language processing. 
 
-I love Programming, Designing, and Planning. I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.
+I love Programming, Designing, and Planning. I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.   
 
-<br>
 
-___  
 
-<br>
+___
+
+  
+
+  
 
 ## **News !**
 
@@ -28,14 +29,16 @@ ___
 - **1 October 2020**: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
 - **12 September 2020**: Ranked 1st at the leaderboard for EMNLP 2020, W-NUT workshop Shared Task 3.
 - **31 August 2020**: Completed wonderful summer at [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2020/projects/4810193256316928/)
-- **31 Jun 2020**: completed my research intern at [CERN](https://home.cern/)   
+- **31 Jun 2020**: completed my research intern at [CERN](https://home.cern/)     
 
-
-<br>
 
 ___
 
-<br>
+  
+
+  
+
+
 
 ## **Publications**
 
@@ -90,7 +93,7 @@ F1 Score1. <br> <br>
 
 </ul>
 ___
-<br>
+
 
 ## **Experience**
 <div class="row">
