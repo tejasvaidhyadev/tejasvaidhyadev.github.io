@@ -14,8 +14,8 @@ I am an Undergrad Researcher. I am currently in my senior year of Undergraduate 
 
 I love Programming, Designing, and Planning. I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.  
 
+{% include elements/button.html link="https://scholar.google.com/citations?user=dGedZKoAAAAJ&hl=en)" text="**Google Scholar**" style="outline-dark" size="sm" %}  | {% include elements/button.html link="https://twitter.com/imtejas13" text="**Twitter Handle**" style="outline-dark" size="sm" %} 
 
-{% include elements/button.html link="https://scholar.google.com/citations?user=dGedZKoAAAAJ&hl=en)" text="Google Scholar" style="outline-dark" size="sm" %} / {% include elements/button.html link="https://twitter.com/imtejas13" text="Twitter" style="outline-dark" size="sm" %} 
 
 ___
 
