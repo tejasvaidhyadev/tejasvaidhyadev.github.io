@@ -4,15 +4,12 @@ permalink: /
 ---
 {% include landing.html %}
 
-
-<br>
 ## **About Me**
 
 Hello, I'm Tejas Vaidhya,  
+I am currently in my senior year of Undergraduate studies at [Indian Institute of Technology, Kharagpur](http://iitkgp.ac.in/).
 
 My research interests include Natural Language processing, Computer vision and Causal Inference. I am also highly interested to work on causality, explainability and Transformer based Language models. The goal of my research is to develop useful systems that work for the right reasons!
-
-I am currently in my senior year of Undergraduate studies at [Indian Institute of Technology, Kharagpur](http://iitkgp.ac.in/).
 
 I love Programming, Designing, and Planning. I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.  
 
