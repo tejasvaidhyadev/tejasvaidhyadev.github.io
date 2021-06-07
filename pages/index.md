@@ -10,7 +10,7 @@ permalink: /
 
 Hello, I'm Tejas Vaidhya,  
 
-My research interests include Natural Language processing and Causality in Natural Langauge Processing. I am also highly interested to work on causality, explainability and Transformer based Language models. The goal of my research is to develop useful systems that work for the right reasons!
+My research interests include Natural Language processing, Computer vision and Causal Inference. I am also highly interested to work on causality, explainability and Transformer based Language models. The goal of my research is to develop useful systems that work for the right reasons!
 
 I am currently in my senior year of Undergraduate studies at [Indian Institute of Technology, Kharagpur](http://iitkgp.ac.in/).
 
