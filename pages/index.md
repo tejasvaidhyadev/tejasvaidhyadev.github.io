@@ -24,9 +24,9 @@ ___
 
 ## **News** 
 - **7 July 2021**: I am attending Eastern European Machine Learning Summer School,2021  
-- **1 May 2021**: Mentoring two project in Google Summer of Code, 2021 and Julia Summer of Code, 2021.
+- **1 May 2021**: Mentoring two project in [Google Summer of Code](https://github.com/AdarshKumar712/PPLM.jl), 2021 and [Julia Summer of Code, 2021](https://github.com/SambhawDrag/XLNet.jl).
 - **1 March 2021**: Starting Research internship at [Mrinmaya's Lab, Eth Zürich](http://www.mrinmaya.io/)
-- **14 Jan 2021**: Starting intership at [uniworks Designs, Hyderabad](https://uniworksdesigns.com/) 
+- **14 Jan 2021**: Starting intership at [Uniworks Designs, Hyderabad](https://uniworksdesigns.com/) 
 - **7 Jan 2021**: Paper accepted to the [CONSTRAINT](https://constraint-shared-task-2021.github.io/) workshop, collocated with AAAI 2021
 - **6 October 2020**: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
 - **1 October 2020**: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
