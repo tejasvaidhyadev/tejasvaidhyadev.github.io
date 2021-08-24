@@ -1,9 +1,21 @@
+- entity: Institute for Machine Learning, ETH Zurich
+  link: http://www.mrinmaya.io
+  location: 
+  role: Research Intern
+  from: Mar 2021
+  to: Present
+  #description:
+  #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
+  courses:  
+  tools: [NLP, Transformer, Language model, Causal Inference]
+
+
 - entity: Google Summer of Code @julialang
   link: https://summerofcode.withgoogle.com/projects/#5015442659213312
   location: 
   role: Student Developer
-  from: Sep 2017
-  to: present
+  from: May 2020
+  to: Aug 2020
   #description:
   #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
   courses:  
@@ -13,8 +25,8 @@
   link: https://home.cern/
   location: Hong kong
   role: Student Researcher
-  from: march 2020
-  to: Present
+  from: Mar 2020
+  to: May 2020
   #description: I am involved in the ongoing research on the track classification for identifying tau-leptons from Boson decay. I am working on developing deep learning based algorithms to efficiently classify between the background noise and tau-jets.
   courses:
     
