@@ -1,6 +1,6 @@
 ---
 name: NER Tagging of Lab protocols
-tools: [Natural Language Processing, Deeplearning, Language Model]
+tools: [NLP, Deeplearning, Language Model]
 image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/Ner.png
 description: 
 external_url: https://github.com/tejasvaidhyadev/NER_Lab_Protocols
