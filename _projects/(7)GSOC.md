@@ -1,5 +1,5 @@
 ---
-name: A Lite BERT and Statistical Language Models
+name: A Lite BERT & Statistical LMs
 tools: [NLP, Deeplearning, Language Model]
 image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/gsoc_logo.png
 description: 
