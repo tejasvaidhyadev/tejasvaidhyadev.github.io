@@ -1,5 +1,5 @@
 ---
-name: Extracting COVID Entities from tweets
+name: Extracting COVID Entities
 tools: [NLP, Deeplearning, Social Computing]
 image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/covid_extract.png
 description: 
