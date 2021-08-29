@@ -71,7 +71,7 @@ ___
     </div>
     <br>
 
-<a target="_blank" href="https://arxiv.org/pdf/2101.05494.pdf">
+<li><a target="_blank" href="https://arxiv.org/pdf/2101.05494.pdf">
           "Hostility Detection in Hindi leveraging Pre-Trained Language Models"</a>, Ojasv Kamal, Adarsh Kumar, and Tejas Vaidhya <br>
            <b><u>Oral Presentation</u></b> at the Constraint workshop at Advancement Of Artificial Intelligence <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#fakenews"><u>More</u> </a>
   </li>
