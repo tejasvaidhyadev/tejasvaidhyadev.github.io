@@ -93,6 +93,26 @@ F1 Score1. <br> <br>
   </div>
     <br>
 
+<li><a target="_blank" href="https://github.com/jharkawat/meddoprof_shared_task">
+          "Spanish Pre-Trained Language Models for HealthCare Industry"</a>, Tejas Vaidhya and Jalaj Harkawat<br>
+          <i> <b><u>Oral Presentation</u></b> at Proceedings of the Iberian Languages Evaluation Forum</i> <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#ebto"><u>More</u> </a>
+  </li>
+    <div id="beto" class="collapse" style="font-size:15px;margin:50px">Currently transformer based model have shown high accuracy and good prediction on downstream tasks like Named Entity Recognition, Sentiment analysis etc. But the terminologies used in Healthcare sector such as names of different diseases, medicines and departments makes it difficult to predict with high accuracy. In this paper we are going to show a system for Named Entity tagging based on BETO (SpanishBERT). Experimental results have shown that our model gives better results than the current baseline of MEDDOPROF Shared task. <br> <br>
+      {% include elements/button.html link="https://github.com/jharkawat/meddoprof_shared_task" text="Code" %} {% include elements/button.html link="" text="Pdf" %} {% include elements/button.html link="" text="Cite" %} {% include elements/button.html link="" text="Slides" %} 
+  </div>
+    <br>
+
+<li><a target="_blank" href="https://drive.google.com/file/d/1UDGujYmKUzDRFgLbvF355URmxiEyoMXv/view">
+          ""Causal Direction in Data Matters: Implications of Causal and Anticausal Learning in NLP"</a>, Zhijing Jin, Julius von KÃgelgenâ, Jingwei Ni, Tejas Vaidhya, Ayush Kaushal, Mrinmaya Sachan and Bernhard Schoelkopf<br>
+          <i> <b><u>Oral Presentation</u></b> at the Constraint workshop at Advancement Of Artificial Intelligence</i> <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#emnlp"><u>More</u> </a>
+  </li>
+    <div id="emnlp" class="collapse" style="font-size:15px;margin:50px">descriptionThe principle of independent causal mechanisms (ICM) states that generative processes of real-world data consist of independent modules which do not influence or inform each other. While this idea has led to fruitful developments in the field of causal inference, it is not widely known in the NLP community. In this work, we argue that the causal direction of the data collection process bears non trivial implications that can explain a number of published NLP findings, such as differences in semi-supervised learning (SSL) and domain adaptation (DA) performance across different settings. We categorize common NLP tasks according to their causal direction and empirically assay the validity of the ICM principle for text data using minimum description length. We conduct an extensive meta-analysis of over 100 (SSL) and 30 (DA) published studies, and find that the results are consistent with our expectations based on causal insights. This work presents the first attempt to analyze the ICM principle in NLP, and provides constructive suggestions for future modelling choices
+
+. <br> <br>
+      {% include elements/button.html link="" text="Code" %} {% include elements/button.html link="https://drive.google.com/file/d/1UDGujYmKUzDRFgLbvF355URmxiEyoMXv/view" text="Pdf" %} {% include elements/button.html link="" text="Cite" %} 
+  </div>
+    <br>
+
 
 </ul>
 ___
