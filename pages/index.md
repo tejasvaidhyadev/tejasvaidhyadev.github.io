@@ -95,7 +95,7 @@ F1 Score1. <br> <br>
 
 <li><a target="_blank" href="https://github.com/jharkawat/meddoprof_shared_task">
           "Spanish Pre-Trained Language Models for HealthCare Industry"</a>, Tejas Vaidhya and Jalaj Harkawat<br>
-          <i> <b><u>Oral Presentation</u></b> at Proceedings of the Iberian Languages Evaluation Forum</i> <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#ebto"><u>More</u> </a>
+          <i> <b><u>Oral Presentation</u></b> at Proceedings of the Iberian Languages Evaluation Forum</i> <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#beto"><u>More</u> </a>
   </li>
     <div id="beto" class="collapse" style="font-size:15px;margin:50px">Currently transformer based model have shown high accuracy and good prediction on downstream tasks like Named Entity Recognition, Sentiment analysis etc. But the terminologies used in Healthcare sector such as names of different diseases, medicines and departments makes it difficult to predict with high accuracy. In this paper we are going to show a system for Named Entity tagging based on BETO (SpanishBERT). Experimental results have shown that our model gives better results than the current baseline of MEDDOPROF Shared task. <br> <br>
       {% include elements/button.html link="https://github.com/jharkawat/meddoprof_shared_task" text="Code" %} {% include elements/button.html link="" text="Pdf" %} {% include elements/button.html link="" text="Cite" %} {% include elements/button.html link="" text="Slides" %} 
