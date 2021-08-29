@@ -107,7 +107,8 @@ F1 Score1. <br> <br>
           <b><u>Long Paper</u></b> at the 2021 Conference on Emperical Methods in Natural Language Processing (EMNLP) <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#emnlp"><u>More</u> </a>
   </li>
     <div id="emnlp" class="collapse" style="font-size:15px;margin:50px">descriptionThe principle of independent causal mechanisms (ICM) states that generative processes of real-world data consist of independent modules which do not influence or inform each other. While this idea has led to fruitful developments in the field of causal inference, it is not widely known in the NLP community. In this work, we argue that the causal direction of the data collection process bears non trivial implications that can explain a number of published NLP findings, such as differences in semi-supervised learning (SSL) and domain adaptation (DA) performance across different settings. We categorize common NLP tasks according to their causal direction and empirically assay the validity of the ICM principle for text data using minimum description length. We conduct an extensive meta-analysis of over 100 (SSL) and 30 (DA) published studies, and find that the results are consistent with our expectations based on causal insights. This work presents the first attempt to analyze the ICM principle in NLP, and provides constructive suggestions for future modelling choices
-
+. <br> <br>
+      {% include elements/button.html link="" text="Code" %} {% include elements/button.html link="https://drive.google.com/file/d/1UDGujYmKUzDRFgLbvF355URmxiEyoMXv/view" text="Pdf" %} {% include elements/button.html link="" text="Cite" %} {% include elements/button.html link="" text="Slides" %}
  </div>
     <br>
 
@@ -119,7 +120,7 @@ F1 Score1. <br> <br>
 
 
 . <br> <br>
-      {% include elements/button.html link="" text="Code" %} {% include elements/button.html link="https://drive.google.com/file/d/12-hJeIqjMx-GnfjXf3E6vcVYlamN5yoR/view?usp=sharing" text="Pdf" %} {% include elements/button.html link="" text="Cite" %} 
+      {% include elements/button.html link="" text="Code" %} {% include elements/button.html link="https://drive.google.com/file/d/12-hJeIqjMx-GnfjXf3E6vcVYlamN5yoR/view?usp=sharing" text="Pdf" %} {% include elements/button.html link="" text="Cite" %} {% include elements/button.html link="" text="Slides" %}
   </div>
     <br>
 
