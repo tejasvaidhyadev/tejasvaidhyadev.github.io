@@ -122,6 +122,19 @@ F1 Score1. <br> <br>
       {% include elements/button.html link="" text="Code" %} {% include elements/button.html link="https://drive.google.com/file/d/12-hJeIqjMx-GnfjXf3E6vcVYlamN5yoR/view?usp=sharing" text="Pdf" %} {% include elements/button.html link="" text="Cite" %} 
   </div>
     <br>
+
+<li><a target="_blank" href="https://drive.google.com/file/d/1ZczptNNnywiKzt_1tex6fbo-_7oEgZLT/view">
+          "ArP-Gen:Architectural Plan Generator"</a>, Tejas Vaidhya and Shubham Kumar Pandey <br>
+          <i> <b><u></u></b> Work in Progress </i> <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#emnlp21"><u>More</u> </a>
+  </li>
+    <div id="emnlp21" class="collapse" style="font-size:15px;margin:50px">In architecture, planning is a unique problem where the
+goal is to generate mapping from the inputs, namely given site boundary, required building foot print and fundamental spatial program requirements. A lot of study has been already done in the area of generative algorithm in order to create spatial floor plan layouts with the help of iterative process. In this paper, we attempt to propose first end-to-end Architectural plan generation model called ArP-Gen: Architectural Plan Generator, that create architectural plan from basic user inputs like site boundary, entrance point, and room programming and new Spatial Mapping Task (SMT), which maps spatial or semantically segmented floor plans to detail architectural plan, learning detailing and room semantics. Our other contribution also include creation of precisely annotated and colour coded image data set for the purpose of mapping spatial plan to detailed architectural floor plan layout. Experiments and evaluation of output by architects demonstrate the potential of ArP-Gen framework to generate feasible Architectural solutions.
+
+. <br> <br>
+      {% include elements/button.html link="https://github.com/tejasvaidhyadev/ArP-GAN" text="Code" %} {% include elements/button.html link="https://drive.google.com/file/d/1ZczptNNnywiKzt_1tex6fbo-_7oEgZLT/view" text="Pdf" %} {% include elements/button.html link="" text="Cite" %} {% include elements/button.html link="https://indusfloorplan.web.app/home" text="Demo" %} 
+  </div>
+    <br>
+    
 </ul>
 ___
 
