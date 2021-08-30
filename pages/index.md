@@ -181,7 +181,7 @@ ___
 <div class="row">
 {% include about/timeline.html title="" source=site.data.education-timeline %}
 </div >
-*details of projects can be found* [here](projects/)  
+*details of projects can be found* [**here**](projects/)  
 
 ___
 <br>
