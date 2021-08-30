@@ -10,7 +10,7 @@ permalink: /
 
 
 <div class="row  align-items-left p-2">
-  <div class="col-lg-4  p-4">
+  <div class="col-lg-4  p-5">
     <br>
     <!-- Fine Circle Responsive Image -->
     <div id="container" class="my-2">
@@ -164,7 +164,7 @@ F1 Score1. <br> <br>
 <li><a target="_blank" href="https://drive.google.com/file/d/1ZczptNNnywiKzt_1tex6fbo-_7oEgZLT/view">
           "ArP-Gen:Architectural Plan Generator"</a>, <br> <i> Tejas Vaidhya and Shubham Kumar Pandey </i><br>
            <b><u>Work in Progress</u></b>   <br>
-  {% include elements/button.html link="https://github.com/tejasvaidhyadev/ArP-GAN" text="<b>Code</b>" style="outline-dark" size="sm" %}  {% include elements/button.html link="https://drive.google.com/file/d/1ZczptNNnywiKzt_1tex6fbo-_7oEgZLT/view" text="<b>Pdf</b>"  style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"   style="outline-dark" size="sm" %} {% include elements/button.html link="https://indusfloorplan.web.app/home" text="<b>Demo</b>"   style="outline-dark" size="sm" %} <br> <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#pandu"><u>More</u> </a>
+  {% include elements/button.html link="https://github.com/tejasvaidhyadev/ArP-GAN" text="<b>Code</b>" style="outline-dark" size="sm" %}  {% include elements/button.html link="https://drive.google.com/file/d/1ZczptNNnywiKzt_1tex6fbo-_7oEgZLT/view" text="<b>Pdf</b>"  style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"   style="outline-dark" size="sm" %} {% include elements/button.html link="https://indusfloorplan.web.app/home" text="<b>Demo</b>"   style="outline-dark" size="sm" %}> <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#pandu"><u>More</u> </a>
 
   </li>
     <div id="pandu" class="collapse" style="font-size:15px;margin:50px">In architecture, planning is a unique problem where the
