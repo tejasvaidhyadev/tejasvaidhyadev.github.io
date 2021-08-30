@@ -144,7 +144,7 @@ F1 Score1. <br> <br>
 <li><a target="_blank" href="https://drive.google.com/file/d/1ZczptNNnywiKzt_1tex6fbo-_7oEgZLT/view">
           "ArP-Gen:Architectural Plan Generator"</a>, Tejas Vaidhya and Shubham Kumar Pandey <br>
            <b><u>Work in Progress</u></b>   <br>
-  {% include elements/button.html link="https://github.com/tejasvaidhyadev/ArP-GAN" text="Code" %} <br> {% include elements/button.html link="https://drive.google.com/file/d/1ZczptNNnywiKzt_1tex6fbo-_7oEgZLT/view" text="Pdf" %} {% include elements/button.html link="" text="Cite" %} {% include elements/button.html link="https://indusfloorplan.web.app/home" text="Demo" %} {% include elements/button.html link="https://docs.google.com/document/d/1LK3FL8nfoGaVJ3TgtspceqNw1gqplbWoLUu6wKhWWPQ/edit" text="Motivation" %} <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#pandu"><u>More</u> </a>
+  {% include elements/button.html link="https://github.com/tejasvaidhyadev/ArP-GAN" text="Code" %} <br> {% include elements/button.html link="https://drive.google.com/file/d/1ZczptNNnywiKzt_1tex6fbo-_7oEgZLT/view" text="Pdf" %} {% include elements/button.html link="" text="Cite" %} {% include elements/button.html link="https://indusfloorplan.web.app/home" text="Demo" %}  <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#pandu"><u>More</u> </a>
 
   </li>
     <div id="pandu" class="collapse" style="font-size:15px;margin:50px">In architecture, planning is a unique problem where the
