@@ -189,11 +189,11 @@ ___
 ## **Selected Projects**      
 
 {% include projects/index.html %}
-{% include elements/button.html link="projects/" text="Read More " block=true %}
+{% include elements/button.html link="projects/" text="**Read More**" block=true %}
 
 ___
 
-You can check out the other things I do [here](Random/)
+You can check out the other things I do [**here**](Random/)
 
 ___
 
