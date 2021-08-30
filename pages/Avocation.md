@@ -5,7 +5,7 @@ weight: Null
 ---
  
 
-# Filmmaking & Animation
+## Filmmaking & Animation
 
 I make films covering a variety of topics. I developed a short film to avoid deforestation and placed second in the General Championship at IIT Kharagpur. I also try to simulate virtual Varanasi.
 
@@ -28,7 +28,7 @@ I make films covering a variety of topics. I developed a short film to avoid def
 </div>
 
 
-# Position of Responsibility 
+## Position of Responsibility 
 -  **Department Representative, CDC IIT Kharagpur:** Part of a team of 30 students, responsible for planning and
 Execution of the placement of 3000+ students at IIT Kharagpur.  
 - **Senior member of ShARE, IIT Kharagpur:** Member of a Global Student Think Tank with 620+ members from over
@@ -39,10 +39,10 @@ and Short Film Making in Technology General Championship 2020 at the IIT Kharagp
 Language Models in Julia" and " XLNet - A Generalized Autoregressive Pretraining Model for JuliaText".  
 
 
-# SOCIAL CAUSE 
+## SOCIAL CAUSE 
 - Volunteerly taught rural students for two years in the villages near kharagpur on saturday and sunday 
 - Created graffiti on the tarnished walls to promote religious harmony at the village near Kharagpur.
 - Our team won the Bronze medal in the annual NSS camp.
 
-# Architecture?
+## Architecture?
 Coming soon!
