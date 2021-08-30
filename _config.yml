@@ -1,6 +1,7 @@
 title               : iamtejas
 description         : >-
-                     "The world is full of magical things"
+                     "The world is full of magical things, 
+                      patiently waiting for our senses to grow sharper."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 remote_theme        : tejasvaidhyadev/portfolYOU       # theme 
 

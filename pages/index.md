@@ -9,9 +9,9 @@ permalink: /
 <br>
 
 
-<div class="row  align-items-left p-4">
-  <div class="col-lg-4  ">
-
+<div class="row  align-items-left p-2">
+  <div class="col-lg-4  p-4">
+    <br>
     <!-- Fine Circle Responsive Image -->
     <div id="container" class="my-2">
       <div id="dummy"></div>
