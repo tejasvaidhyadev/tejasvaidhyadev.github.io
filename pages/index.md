@@ -4,7 +4,7 @@ permalink: /
 ---
 {% include landing.html %}
 
-<html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -47,7 +47,7 @@ body {
 }
 </style>
 </head>
-<body>
+
 
 <div class="split left">
   <div class="centered">
@@ -57,6 +57,7 @@ body {
 
 <div class="split right">
   <div class="centered">
+
     Hello, I'm Tejas Vaidhya,  
 I am currently in my senior year of Undergraduate studies at [Indian Institute of Technology, Kharagpur](http://iitkgp.ac.in/).
 
@@ -68,8 +69,7 @@ I love Programming, Designing, and Planning. I also enjoy watching Anime, readin
   </div>
 </div>
      
-</body>
-</html> 
+ 
 
 
 
