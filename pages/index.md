@@ -6,25 +6,39 @@ permalink: /
 
 
 
-{% include landing.html %}
+<br>
+<br>
+<div class="row  align-items-left p-4">
+  <div class="col-lg-4  ">
 
-## **About Me**
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
+      </div>
+    </div>
 
-Hello, I'm Tejas Vaidhya,  
-I am currently in my senior year of Undergraduate studies at [Indian Institute of Technology, Kharagpur](http://iitkgp.ac.in/).
+    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
 
-My research interests include Natural Language processing, Computer vision and Causal Inference. I am also highly interested to work on causality, explainability and Transformer based Language models. The goal of my research is to develop useful systems that work for the right reasons!
-
-I love Programming, Designing, and Planning. I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.  
-
-{% include elements/button.html link="https://scholar.google.com/citations?user=dGedZKoAAAAJ&hl=en)" text="**Google Scholar**" style="outline-dark" size="sm" %}  | {% include elements/button.html link="https://twitter.com/imtejas13" text="**Twitter Handle**" style="outline-dark" size="sm" %} 
-
-
-___
-
+  </div>
+  <div class="col-lg-8 p-4">
   
+    <br>
+    Hello, I'm Tejas Vaidhya,  
+    I am currently in my senior year of Undergraduate studies at <a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur</a>. <br> <br>
+    
+    My research interests include Natural Language processing, Computer vision and Causal Inference. I am also highly interested to work on causality, explainability and Transformer based Language models. The goal of my research is to develop useful systems that work for the right reasons!  <br>
+    
+    I love Programming, Designing, and Planning. I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.  
+    
+    <br> <br> {% include elements/button.html link="https://scholar.google.com/citations?user=dGedZKoAAAAJ&hl=en)" text="<b>Google Scholar</b>" style="outline-dark" size="sm" %}  | {% include elements/button.html link="https://twitter.com/imtejas13" text="<b>Twitter Handle</b>" style="outline-dark" size="sm" %} 
+    
 
+  </div>
+</div>
   
+ <Br> 
 
 ## **News** 
 - **7 July 2021**: Attending [Eastern European Machine Learning Summer School, 2021](https://www.eeml.eu/home)  
@@ -52,7 +66,7 @@ ___
 <ul>
 
 <li><a target="_blank" href="https://www.aclweb.org/anthology/2020.wnut-1.79.pdf">
-          "Leveraging Event Specific and Chunk Span features to Extract COVID Events from tweets"</a>, Ayush Kaushal and Tejas Vaidhya <br>
+          "Leveraging Event Specific and Chunk Span features to Extract COVID Events from tweets"</a>, <br> <i>Ayush Kaushal and Tejas Vaidhya</i> <br>
           <b><u>Oral Presentation</u></b> at the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP) <u><b>Shared Task Winners</b></u> <br>
           {% include elements/button.html link="https://github.com/Ayushk4/extract_covid_entity" text="<b>Code</b>" style="outline-dark" size="sm" %} {% include elements/button.html link="https://www.aclweb.org/anthology/2020.wnut-1.79.pdf" text="<b>Pdf</b>"  style="outline-dark" size="sm" %} {% include elements/button.html link="https://www.aclweb.org/anthology/2020.wnut-1.79.bib" text="<b>Cite</b>"   style="outline-dark" size="sm" %} {% include elements/button.html link="https://docs.google.com/presentation/d/13DDY6VSmrVPBddTjWb3rThYRFlRDE_9fi4iyBrhJev4/edit?usp=sharing" text="<b>Slides</b>"   style="outline-dark" size="sm"%} {% include elements/button.html link="https://github.com/noisy-text/noisy-text.github.io/blob/master/2020/posters/WNUT2020_91_poster%20-%20Tejas%20vaidhya.pdf" text="<b>Poster</b>"   style="outline-dark" size="sm" %} 
           <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#covid"><u>More</u> </a>
@@ -64,7 +78,7 @@ ___
 
 
 <li><a target="_blank" href="https://www.aclweb.org/anthology/2020.wnut-1.34.pdf">
-          "Domain specific BERT representation for Named Entity Recognition of lab protocol."</a>, Tejas Vaidhya and Ayush Kaushal <br>
+          "Domain specific BERT representation for Named Entity Recognition of lab protocol."</a>, <br> <i>Tejas Vaidhya and Ayush Kaushal</i> <br>
            Proceedings of the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP)  <br>
 
            {% include elements/button.html link="https://github.com/tejasvaidhyadev/W-NUT_2020" text="<b>Code</b>" style="outline-dark" size="sm" %} {% include elements/button.html link="https://www.aclweb.org/anthology/2020.wnut-1.34.pdf" text="<b>Pdf</b>"  style="outline-dark" size="sm" %} {% include elements/button.html link="https://www.aclweb.org/anthology/2020.wnut-1.34.bib" text="<b>Cite</b>"   style="outline-dark" size="sm" %} {% include elements/button.html link="https://github.com/noisy-text/noisy-text.github.io/blob/master/2020/posters/WNUT2020_92_poster%20-%20Tejas%20vaidhya.pdf" text="<b>Poster</b>"   style="outline-dark" size="sm" %}
@@ -86,7 +100,7 @@ ___
 
 
 <li><a target="_blank" href="https://arxiv.org/pdf/2101.05494.pdf">
-          "Hostility Detection in Hindi leveraging Pre-Trained Language Models"</a>, Ojasv Kamal, Adarsh Kumar, and Tejas Vaidhya <br>
+          "Hostility Detection in Hindi leveraging Pre-Trained Language Models"</a>, <br> <i> Ojasv Kamal, Adarsh Kumar, and Tejas Vaidhya</i> <br>
            <b><u>Oral Presentation</u></b> at the Constraint workshop at Advancement Of Artificial Intelligence <br> {% include elements/button.html link="https://github.com/kamalojasv181/Hostility-Detection-in-Hindi-Posts" text="<b>Code</b>" style="outline-dark" size="sm" %} {% include elements/button.html link="https://arxiv.org/pdf/2101.05494.pdf" text="<b>Pdf</b>"  style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"   style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Slides</b>"   style="outline-dark" size="sm" %} 
            <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#fakenews"><u>More</u> </a>
            
@@ -109,7 +123,7 @@ F1 Score1. <br> <br>
     <br>
 
 <li><a target="_blank" href="https://github.com/jharkawat/meddoprof_shared_task">
-          "Spanish Pre-Trained Language Models for HealthCare Industry"</a>, Tejas Vaidhya and Jalaj Harkawat<br>
+          "Spanish Pre-Trained Language Models for HealthCare Industry"</a>, <br> <i>Tejas Vaidhya and Jalaj Harkawat</i><br>
            <b><u>Oral Presentation</u></b> at Proceedings of the Iberian Languages Evaluation Forum  <br> {% include elements/button.html link="https://github.com/jharkawat/meddoprof_shared_task" text="<b>Code</b>" style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Pdf</b>"  style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"   style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Slides</b>"   style="outline-dark" size="sm" %} 
            <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#beto"><u>More</u> </a>
  
@@ -121,7 +135,7 @@ F1 Score1. <br> <br>
     <br>
 
 <li><a target="_blank" href="https://drive.google.com/file/d/1UDGujYmKUzDRFgLbvF355URmxiEyoMXv/view">
-          "Causal Direction in Data Matters: Implications of Causal and Anticausal Learning in NLP"</a>, Zhijing Jin, Julius von KÃgelgenâ, Jingwei Ni, Tejas Vaidhya, Ayush Kaushal, Mrinmaya Sachan and Bernhard Schoelkopf<br>
+          "Causal Direction in Data Matters: Implications of Causal and Anticausal Learning in NLP"</a>, <br> <i>Zhijing Jin, Julius von KÃgelgenâ, Jingwei Ni, Tejas Vaidhya, Ayush Kaushal, Mrinmaya Sachan and Bernhard Schoelkopf</i><br>
           <b><u>Long Paper</u></b> at the 2021 Conference on Emperical Methods in Natural Language Processing (EMNLP)<br>   {% include elements/button.html link="" text="<b>Code</b>" style="outline-dark" size="sm" %} {% include elements/button.html link="https://drive.google.com/file/d/1UDGujYmKUzDRFgLbvF355URmxiEyoMXv/view" text="<b>Pdf</b>"  style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"   style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Slides</b>"   style="outline-dark" size="sm" %}
           <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#emnlp"><u>More</u> </a>
   </li>
@@ -132,7 +146,7 @@ F1 Score1. <br> <br>
     <br>
 
 <li><a target="_blank" href="https://drive.google.com/file/d/12-hJeIqjMx-GnfjXf3E6vcVYlamN5yoR/view?usp=sharing">
-          "Mining the Cause of Political Decision-Making from Social Media: A Case Study of COVID-19 Policies across the US States"</a>, Zhijing Jin, Zeyu Peng, Tejas Vaidhya, Bernhard Schoelkopf and Rada Mihalcea<br>
+          "Mining the Cause of Political Decision-Making from Social Media: A Case Study of COVID-19 Policies across the US States"</a>, <br> <i> Zhijing Jin, Zeyu Peng, Tejas Vaidhya, Bernhard Schoelkopf and Rada Mihalcea</i><br>
           <b><u>Findings of EMNLP</u></b> at the 2021 Conference on Emperical Methods in Natural Language Processing (EMNLP) <br>
              {% include elements/button.html link="" text="<b>Code</b>" style="outline-dark" size="sm" %} {% include elements/button.html link="https://drive.google.com/file/d/12-hJeIqjMx-GnfjXf3E6vcVYlamN5yoR/view?usp=sharing" text="<b>Pdf</b>"  style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"   style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Slides</b>"   style="outline-dark" size="sm" %} 
              <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#emnlp21"><u>More</u> </a>
@@ -143,10 +157,11 @@ F1 Score1. <br> <br>
 
 . <br> <br>
   </div>
-    <br>
+
+<br>
 
 <li><a target="_blank" href="https://drive.google.com/file/d/1ZczptNNnywiKzt_1tex6fbo-_7oEgZLT/view">
-          "ArP-Gen:Architectural Plan Generator"</a>, Tejas Vaidhya and Shubham Kumar Pandey <br>
+          "ArP-Gen:Architectural Plan Generator"</a>, <br> <i> Tejas Vaidhya and Shubham Kumar Pandey </i><br>
            <b><u>Work in Progress</u></b>   <br>
   {% include elements/button.html link="https://github.com/tejasvaidhyadev/ArP-GAN" text="<b>Code</b>" style="outline-dark" size="sm" %}  {% include elements/button.html link="https://drive.google.com/file/d/1ZczptNNnywiKzt_1tex6fbo-_7oEgZLT/view" text="<b>Pdf</b>"  style="outline-dark" size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"   style="outline-dark" size="sm" %} {% include elements/button.html link="https://indusfloorplan.web.app/home" text="<b>Demo</b>"   style="outline-dark" size="sm" %} <br> <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#pandu"><u>More</u> </a>
 
@@ -156,11 +171,12 @@ goal is to generate mapping from the inputs, namely given site boundary, require
 
 . <br> <br>
       
-  </div>
+</div>
     <br>
     
 </ul>
 ___
+
 
 
 ## **Experience**
