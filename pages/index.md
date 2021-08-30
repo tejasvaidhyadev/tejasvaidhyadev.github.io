@@ -5,9 +5,6 @@ permalink: /
 
 
 
-<br>
-<br>
-
 
 <div class="row  align-items-left p-2">
   <div class="col-lg-4  p-5">
