@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Random/
+permalink: /Random
 weight: Null
 ---
  
