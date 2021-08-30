@@ -1,5 +1,5 @@
 ---
-name: Identification of Taulapton 
+name: <b>Identification of Taulapton<</b> 
 tools: [Deeplearning, NLP]
 image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/cern.png
 description: 

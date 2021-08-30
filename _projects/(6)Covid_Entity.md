@@ -1,5 +1,5 @@
 ---
-name: Extracting Covid Entities
+name: <b>Extracting Covid Entities</b>
 tools: [NLP, Deeplearning, Social Computing]
 image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/covid_extract.png
 description: 

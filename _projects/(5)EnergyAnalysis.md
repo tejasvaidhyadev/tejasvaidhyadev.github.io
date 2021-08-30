@@ -1,5 +1,5 @@
 ---
-name: Energy Efficent Design & Analysis 
+name: <b>Energy Efficent Design & Analysis </b>
 tools: [Revit, Photoshop]
 image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/revit.png
 description: 

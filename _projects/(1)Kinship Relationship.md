@@ -1,5 +1,5 @@
 ---
-name: Kinship Relationship Prediction
+name: <b>Kinship Relationship Prediction</b>
 tools: [Computer_vision , Keras]
 image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/kinship.png
 description: 
