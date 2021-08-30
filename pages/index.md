@@ -5,9 +5,10 @@ permalink: /
 
 
 
+<br>
+<br>
 
-<br>
-<br>
+
 <div class="row  align-items-left p-4">
   <div class="col-lg-4  ">
 
@@ -24,7 +25,8 @@ permalink: /
   </div>
   <div class="col-lg-8 p-4">
   
-    <br>
+  
+   <p style="font-size:30px"> <b>About me</b></p> 
     Hi, I'm Tejas Vaidhya <br>  
      I am currently in my senior year of Undergraduate studies at <a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur</a>. <br> 
     
