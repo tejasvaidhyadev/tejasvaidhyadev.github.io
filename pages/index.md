@@ -4,6 +4,75 @@ permalink: /
 ---
 {% include landing.html %}
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial;
+  color: white;
+}
+
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.left {
+  left: 0;
+  background-color: #111;
+}
+
+.right {
+  right: 0;
+  background-color: red;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.centered img {
+  width: 150px;
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+<div class="split left">
+  <div class="centered">
+    {% include landing.html %}
+  </div>
+</div>
+
+<div class="split right">
+  <div class="centered">
+    Hello, I'm Tejas Vaidhya,  
+I am currently in my senior year of Undergraduate studies at [Indian Institute of Technology, Kharagpur](http://iitkgp.ac.in/).
+
+My research interests include Natural Language processing, Computer vision and Causal Inference. I am also highly interested to work on causality, explainability and Transformer based Language models. The goal of my research is to develop useful systems that work for the right reasons!
+
+I love Programming, Designing, and Planning. I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.  
+
+{% include elements/button.html link="https://scholar.google.com/citations?user=dGedZKoAAAAJ&hl=en)" text="<b>Google Scholar</b>" style="outline-dark" size="sm" %}  | {% include elements/button.html link="https://twitter.com/imtejas13" text="<b>Twitter Handle</b>" style="outline-dark" size="sm" %} 
+  </div>
+</div>
+     
+</body>
+</html> 
+
+
+
 ## **About Me**
 
 Hello, I'm Tejas Vaidhya,  
