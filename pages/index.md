@@ -38,7 +38,6 @@ permalink: /
   </div>
 </div>
   
- <Br> 
 
 ## **News** 
 - **7 July 2021**: Attending [Eastern European Machine Learning Summer School, 2021](https://www.eeml.eu/home)  
