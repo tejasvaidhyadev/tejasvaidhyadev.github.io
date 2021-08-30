@@ -42,7 +42,6 @@ Language Models in Julia" and " XLNet - A Generalized Autoregressive Pretraining
 ## SOCIAL CAUSE 
 - Volunteerly taught rural students for two years in the villages near kharagpur on saturday and sunday 
 - Created graffiti on the tarnished walls to promote religious harmony at the village near Kharagpur.
-- Our team won the Bronze medal in the annual NSS camp.
 
 ## Architecture?
 Coming soon!
