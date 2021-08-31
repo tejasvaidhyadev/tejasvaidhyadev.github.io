@@ -31,23 +31,12 @@ permalink: /
     
     I love Programming, Designing, and Planning. I also enjoy watching Anime, reading non-fiction, film making, cooking, and interacting with new people. I am a foodie. In my free time, I like to explore food (you can often find me in some of the eateries of KGP). I have always adored technology and am very much fascinated by how it affects the life of people.  
     
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">     
     <br> <br> 
-    <i class="ai ai-google-scholar"></i> {% include elements/button.html link="https://scholar.google.com/citations?user=dGedZKoAAAAJ&hl=en)" text="<b>Google Scholar</b>" style="outline-dark" size="sm" %}  | 
-    
-     <i class="fab fa-1x fa-twitter"></i> {% include elements/button.html link="https://twitter.com/imtejas13" text="<b>Twitter</b>" style="outline-dark" size="sm" %} | 
-    
-    
-    <i class="fab fa-1x fa-linkedin" href="url"></i> 
-      {% include elements/button.html link="https://www.linkedin.com/in/tejas-vaidhya-0245b5157" text="<b>Linkedin</b>" style="outline-dark" size="sm" %} 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
-
-
-
-    
+   <pre><a href="https://scholar.google.com/citations?user=dGedZKoAAAAJ&hl=en"> <i class="ai ai-google-scholar ai-2x"></i> </a>  <a href="https://twitter.com/imtejas13"> <i class="fab fa-2x fa-twitter"></i></a>   <a href="https://www.linkedin.com/in/tejas-vaidhya-0245b5157"> <i class="fab fa-2x fa-linkedin" href="url"></i> </a></pre>
 
   </div>
 </div>
-  
 
 ## **News** 
 - **7 July 2021**: Attending [Eastern European Machine Learning Summer School, 2021](https://www.eeml.eu/home)  
