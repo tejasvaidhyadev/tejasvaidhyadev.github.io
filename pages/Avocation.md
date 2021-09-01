@@ -6,7 +6,7 @@ weight: 5
 ---
  
 
-## **Competitions or Hackathon** 
+## 🏆 **Competitions or Hackathon** 
 I am a big lover of onsite hackathons, but I am unable to join in any offline hackathons because to covid 19. However, I did participate in few online hackathon.
 
 - [**Amazon Ml challenge 2021**](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge)
