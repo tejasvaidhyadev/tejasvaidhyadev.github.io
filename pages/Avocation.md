@@ -48,7 +48,7 @@ Recently I attended the following conferences:
 - ACL 2021 
 - NAACL 2021
 - AAAI 2021 
-- EMNLP 20220
+- EMNLP 2020
 
 ## **Competitions or Hackathon**
 I am a big lover of onsite hackathons, but I am unable to join in any offline hackathons because to covid 19. However, I did participate in few online hackathon.
