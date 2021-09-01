@@ -1,8 +1,8 @@
 ---
 title: First Milestone
 tags: [GSoC 2020-Blog#2, Language Models, TextAnalysis ]
-style: fill
-color: dark
+style: 
+color: 
 description: Introduction of Statistical Language model of TextAnalysis.jl.
 ---
 
