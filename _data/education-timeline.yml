@@ -1,6 +1,6 @@
-- entity: Institute for Machine Learning, ETH Zurich
+- entity: Institute for Machine Learning,
   link: http://www.mrinmaya.io
-  location: 
+  location: ETH Zurich
   role: <b>Research Intern</b>
   from: Mar 2021
   to: Present
@@ -12,7 +12,7 @@
 
 - entity: Google Summer of Code @julialang
   link: https://summerofcode.withgoogle.com/projects/#5015442659213312
-  location: 
+  location: Remote
   role: <b>Student Developer</b>
   from: May 2020
   to: Aug 2020
@@ -32,9 +32,9 @@
     
   tools: [DeepLearning, LHC, Tau-leptons Decay]
 
-- entity: Centre for Artificial Intelligence
+- entity: Centre for Artificial Intelligence, 
   link: http://www.ai.iitkgp.ac.in/
-  #location: IIT Kharagpur,India
+  location: IIT Kharagpur,India
   role: <b>Undergradudate Researcher</b>
   from: Aug 2019
   to:  March 2020
