@@ -48,7 +48,7 @@ permalink: /
 - **1 October 2020**: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
 - **12 September 2020**: Ranked 1st at the leaderboard for EMNLP 2020, W-NUT workshop Shared Task 3.
 - **31 August 2020**: Completed wonderful summer at [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2020/projects/4810193256316928/)
-- **31 Jun 2020**: completed my research intern at [CERN](https://home.cern/)     
+- **30 Jun 2020**: completed my research intern at [CERN](https://home.cern/)     
 
 
 ___
