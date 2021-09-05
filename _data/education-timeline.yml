@@ -6,7 +6,8 @@
   to: Present
   #description:
   #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
-  courses:  
+  courses:
+  image:   https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/ETH-Zurich.png
   tools: [NLP, Transformer, Language model, Causal Inference]
 
 
@@ -18,7 +19,8 @@
   to: Aug 2020
   #description:
   #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
-  courses:  
+  courses:
+  image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/GSoC-logo.png
   tools: [NLP, Transformer, Language model, julia]
 
 - entity: CERN
@@ -29,7 +31,7 @@
   to: May 2020
   #description: I am involved in the ongoing research on the track classification for identifying tau-leptons from Boson decay. I am working on developing deep learning based algorithms to efficiently classify between the background noise and tau-jets.
   courses:
-    
+  image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/CERN-logo.png    
   tools: [DeepLearning, LHC, Tau-leptons Decay]
 
 - entity: Centre for Artificial Intelligence, 
@@ -40,6 +42,7 @@
   to:  March 2020
   description: 
   courses:
+  image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/Centreai.png 
   tools: [Natural Language Processing, Machine Learning]
 
 
