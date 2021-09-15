@@ -18,11 +18,11 @@ Points
 
 - [**Intelligence Augmentation (IA) for AI**](https://www.hackerearth.com/challenges/competitive/ia-for-ai/)  
   - Ranked **1st** runner up in a task of speech emtion classification.
-  - Created a web application to record from brower and classify the speech emotion of a user. Also generate text from the audio.  
+  - Created a web application to record from brower and classify the speech emotion of a user.   
   - Watch our Demo Webapp 
-    <div class="video">
-       <iframe src="https://www.youtube.com/embed/XVgZponOLbE" frameborder="0" width="40%" height="40" ></iframe>
-    </div> 
+     <div class="video">
+       <iframe src="https://www.youtube.com /embed/XVgZponOLbE" frameborder="0" width="40%" height="40" ></iframe>
+     </div> 
 {% include elements/button.html link="https://github.com/tejasvaidhyadev/IA-for-AI" text="<b>Code</b>" style="outline-dark" size="sm" %} {% include elements/button.html link="https://www.hackerearth.com/challenges/competitive/ia-for-ai/leaderboard/" text="<b>Leader Board</b>" style="outline-dark" size="sm" %}  {% include elements/button.html link="https://bit.ly/3AaQKz3" text="<b>Presentation</b>" style="outline-dark" size="sm" %}  {% include elements/button.html link="https://github.com/tejasvaidhyadev/IA-for-AI/tree/main/app" text="<b>Demo Webapp</b>" style="outline-dark" size="sm" %} 
 
    
@@ -36,7 +36,7 @@ I make films covering a variety of topics. I developed a short film to avoid def
 
 
 <div class="video">
-    <iframe src="https://www.youtube.com/embed/fXBVEMjGIZU" frameborder="0" width="60%" height="60" ></iframe>
+    <iframe src="https://www.youtube.com/embed/fXBVEMjGIZU" frameborder="0" width="50%" height="50" ></iframe>
 </div> 
 
 <div style="text-align:center;">
