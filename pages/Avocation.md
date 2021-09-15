@@ -20,9 +20,9 @@ Points
   - Ranked **1st** runner up in a task of speech emtion classification.
   - Created a web application to record from brower and classify the speech emotion of a user.   
   - Watch our Demo Webapp 
-     <div class="video">
+    <div class="video">
        <iframe src="https://www.youtube.com /embed/XVgZponOLbE" frameborder="0" width="40%" height="40" ></iframe>
-     </div> 
+    </div> 
 {% include elements/button.html link="https://github.com/tejasvaidhyadev/IA-for-AI" text="<b>Code</b>" style="outline-dark" size="sm" %} {% include elements/button.html link="https://www.hackerearth.com/challenges/competitive/ia-for-ai/leaderboard/" text="<b>Leader Board</b>" style="outline-dark" size="sm" %}  {% include elements/button.html link="https://bit.ly/3AaQKz3" text="<b>Presentation</b>" style="outline-dark" size="sm" %}  {% include elements/button.html link="https://github.com/tejasvaidhyadev/IA-for-AI/tree/main/app" text="<b>Demo Webapp</b>" style="outline-dark" size="sm" %} 
 
    
