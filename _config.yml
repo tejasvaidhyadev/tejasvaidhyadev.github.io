@@ -15,7 +15,7 @@ plugins:
 nav_exclude:                                            # The following path is excluded from navbar
   - pages/tags.html
   - pages/404.html
-  - pages/index.md
+  - pages/index.md 
   - pages/Resume.md 
 
 ### Author Info ###
