@@ -1,13 +1,23 @@
 ---
 layout: page
-title: Random
+title: Miscellaneous
 permalink: /Random/
 weight: 5
 ---
  
 
-## 🏆 **Competitions or Hackathon** 
+## **Competitions or Hackathon** 
 I am a big lover of onsite hackathons, but I am unable to join in any offline hackathons because to covid 19. However, I did participate in few online hackathon.
+
+
+- [**Intelligence Augmentation (IA) for AI**](https://www.hackerearth.com/challenges/competitive/ia-for-ai/)  
+  - Secured **1st** position and cash prize of Rs. 1,00,000 in the hackathon: Intelligence Augmentation (IA) for AI by Cogito Corporation
+  - Watch our Demo Webapp 
+    <div class="video" >
+       <iframe src="https://www.youtube.com/embed/XVgZponOLbE" frameborder="0" width="40%" height="40" ></iframe>
+    </div> 
+{% include elements/button.html link="https://github.com/tejasvaidhyadev/IA-for-AI" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="https://www.hackerearth.com/challenges/competitive/ia-for-ai/leaderboard/" text="<b>Leader Board</b>"  size="sm" %}  {% include elements/button.html link="https://bit.ly/3AaQKz3" text="<b>Presentation</b>"  size="sm" %}  {% include elements/button.html link="https://github.com/tejasvaidhyadev/IA-for-AI/tree/main/app" text="<b>Demo Webapp</b>"  size="sm" %} 
+
 
 - [**Amazon ML challenge 2021**](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge)
   - Ranked 18 out of 3290 (top 5%) teams in a multi-label text classification task on a dataset containing 3M data points and 10K classes 
@@ -15,17 +25,6 @@ Points
   - Achieved an accuracy of 67.23% by performing EDA, pre-processing on imbalanced dataset and trained using transformer-based models and Improved the accuracy by ~2% with the help of ensemble learning techniques, post-processing and hyperparameter tunings  
     {% include elements/button.html link="https://github.com/jharkawat/Amazon_ml_challenge" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/leaderboard/" text="<b>Leader Board</b>"  size="sm" %} 
 
-
-- [**Intelligence Augmentation (IA) for AI**](https://www.hackerearth.com/challenges/competitive/ia-for-ai/)  
-  - Ranked **1st** runner up in a task of speech emtion classification.
-  - Created a web application to record from brower and classify the speech emotion of a user.   
-  - Watch our Demo Webapp 
-    <div class="video" >
-       <iframe src="https://www.youtube.com/embed/XVgZponOLbE" frameborder="20" width="40%" height="40" ></iframe>
-    </div> 
-{% include elements/button.html link="https://github.com/tejasvaidhyadev/IA-for-AI" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="https://www.hackerearth.com/challenges/competitive/ia-for-ai/leaderboard/" text="<b>Leader Board</b>"  size="sm" %}  {% include elements/button.html link="https://bit.ly/3AaQKz3" text="<b>Presentation</b>"  size="sm" %}  {% include elements/button.html link="https://github.com/tejasvaidhyadev/IA-for-AI/tree/main/app" text="<b>Demo Webapp</b>"  size="sm" %} 
-
-   
 
 ## 🎥 **Filmmaking & Animation**
 
