@@ -153,7 +153,7 @@ F1 Score1. <br>
     <br>
 
 <li><b><a target="_blank" >
-          "Mining the Cause of Political Decision-Making from Social Media: A Case Study of COVID-19 Policies across the US States"</a></b>, <br> <i> Zhijing Jin, Zeyu Peng, Tejas Vaidhya, Bernhard Schoelkopf and Rada Mihalcea</i></b><br>
+          "Mining the Cause of Political Decision-Making from Social Media: A Case Study of COVID-19 Policies across the US States"</a></b>, <br> <i> Zhijing Jin, Zeyu Peng, Tejas Vaidhya, Bernhard Schoelkopf and Rada Mihalcea</i><br>
           <b><u>Findings of EMNLP</u></b> at the 2021 Conference on Emperical Methods in Natural Language Processing (EMNLP) <br>
              {% include elements/button.html link="" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="https://drive.google.com/file/d/12-hJeIqjMx-GnfjXf3E6vcVYlamN5yoR/view?usp=sharing" text="<b>Pdf</b>"   size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"    size="sm" %} {% include elements/button.html link="" text="<b>Slides</b>"    size="sm" %} 
              <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#emnlp21"><u>More</u> </a>
