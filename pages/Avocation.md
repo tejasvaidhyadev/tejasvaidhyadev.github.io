@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
-permalink: /Random/
+permalink: /Miscellaneous/
 weight: 5
 ---
  
