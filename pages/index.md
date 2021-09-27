@@ -202,7 +202,7 @@ ___
 
 ___
 
-You can check out the other things I do [**here**](Random/)
+You can check out the other things I do [**here**](Miscellaneous/)
 
 ___
 
