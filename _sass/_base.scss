@@ -1,10 +1,13 @@
-body{  font-family: Times New Roman, Serif;
-  font: 26px;
-  font-size:large;
+html {
+  padding-left: calc(100vw - 100%);
+}
+
+body {
+  font-family: "Poppins", sans-serif;
 }
 
 .badge {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .bg-light,
