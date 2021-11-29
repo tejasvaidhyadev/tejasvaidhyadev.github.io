@@ -43,7 +43,7 @@ Points
 
 ## 🎥 **Filmmaking & Animation**
 
-I make films covering a variety of topics. I developed a short film to avoid deforestation and placed second in the General Championship at IIT Kharagpur. I also try to simulate virtual Varanasi.
+I make films covering a variety of topics. I developed a short film to promote afforestation and placed second in the General Championship at IIT Kharagpur. I also try to simulate virtual Varanasi.
 
 
 
