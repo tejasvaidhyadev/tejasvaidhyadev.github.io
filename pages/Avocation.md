@@ -25,6 +25,11 @@ Points
   - Achieved an accuracy of 67.23% by performing EDA, pre-processing on imbalanced dataset and trained using transformer-based models and Improved the accuracy by ~2% with the help of ensemble learning techniques, post-processing and hyperparameter tunings  
     {% include elements/button.html link="https://github.com/jharkawat/Amazon_ml_challenge" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/leaderboard/" text="<b>Leader Board</b>"  size="sm" %} 
 
+- [**AllenNLP Hacks 2021 Prediction**](https://allennlp-hackathon.apps.allenai.org/)
+  - Leveraged GPT-3 for text-simplification via prompt-engineering and improved via ranking multiple generated outputs in post-processing.
+  - Devised a ranking model over GPT-3’s outputs as Bert Regression model trained for sorted-simple text first on scrapped ELI5 subreddit data.
+  - Won the 1 st prize for well-designed user interface and system design, built on a well-motivated research plan.
+  {% include elements/button.html link="https://github.com/Ayushk4/AllenNLP_Hacks" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="https://github.com/Ayushk4/AllenNLP_Hacks/tree/master/app" text="<b>Demo Webapp</b>"  size="sm" %} 
 
 ## 🎥 **Filmmaking & Animation**
 
