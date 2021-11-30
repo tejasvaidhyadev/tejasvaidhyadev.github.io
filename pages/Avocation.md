@@ -35,7 +35,7 @@ I am a big lover of onsite hackathons, but I am unable to join in any offline ha
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEqdSrfE44&#x2F;view?utm_content=DAEqdSrfE44&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a>
 
 - [**Amazon ML challenge 2021**](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge)
-  - Ranked 18 out of 3290 (top 5%) teams in a multi-label text classification task on a dataset containing 3M data points and 10K classes 
+  - Ranked 18 out of 3290 (top 1%) teams in a multi-label text classification task on a dataset containing 3M data points and 10K classes 
 Points
   - Achieved an accuracy of 67.23% by performing EDA, pre-processing on imbalanced dataset and trained using transformer-based models and Improved the accuracy by ~2% with the help of ensemble learning techniques, post-processing and hyperparameter tunings  
     {% include elements/button.html link="https://github.com/jharkawat/Amazon_ml_challenge" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/leaderboard/" text="<b>Leader Board</b>"  size="sm" %} 
