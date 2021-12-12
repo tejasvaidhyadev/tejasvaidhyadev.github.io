@@ -298,7 +298,7 @@ F1 Score1. <br>
   
   
 <li><a target="_blank">
-          <b>"ArP-Gen:Architectural Plan Generator"</b></a>, <br> <i> Tejas Vaidhya and Shubham Kumar Pandey </i><br>
+          <b>"ArP-Gen: Architectural Plan Generator"</b></a>, <br> <i> Tejas Vaidhya and Shubham Kumar Pandey </i><br>
            <b><u>Work in Progress</u></b>   <br>
   {% include elements/button.html link="https://github.com/tejasvaidhyadev/ArP-GAN" text="<b>Code</b>"  size="sm" %}  {% include elements/button.html link="https://drive.google.com/file/d/1ZczptNNnywiKzt_1tex6fbo-_7oEgZLT/view" text="<b>Pdf</b>"   size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"    size="sm" %} {% include elements/button.html link="https://indusfloorplan.web.app/home" text="<b>Demo</b>"    size="sm" %} <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#pandu"><u>More</u> </a>
 
