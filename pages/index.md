@@ -69,9 +69,21 @@ ___
 
 
 ## **Publications**
-
 <ul>
-
+<div class="row  align-items-left p-8">
+  <div class="col-lg-2  p-8">
+    <br>
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        
+      <img src="https://raw.githubusercontent.com/Ayushk4/extract_covid_entity/master/images/slot_filling.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-9 p-5">
+  
 <li><a target="_blank"><b>
           "Leveraging Event Specific and Chunk Span features to Extract COVID Events from tweets"</b></a>, <br> <i>Ayush Kaushal and Tejas Vaidhya</i> <br>
           <b><u>Oral Presentation</u></b> at the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP) <u><b>Shared Task Winners</b></u> <br>
@@ -80,10 +92,27 @@ ___
   </li>
     <div id="covid" class="collapse" style="font-size:15px;margin:50px">Twitter has acted as an important source of information during disasters and pandemic, especially during the times of COVID-19. In this paper, we describe our system entry for <i>WNUT 2020 Shared Task-3</i>. The task was aimed at automating the extraction of a variety of COVID-19 related events from Twitter, such as individuals who recently contracted the virus, someone with symptoms who were denied testing and believed remedies against the infection. The system consists of separate multi-task models for slot-filling subtasks and sentence-classification subtasks while leveraging the useful sentence-level information for the corresponding event. The system uses COVID-Twitter-Bert with attention-weighted pooling of candidate slot-chunk features to capture the useful information chunks. The system ranks <b>1st at the leader-board</b> with F1 of 0.6598, without using any ensembles or additional datasets. <br> 
   </div>
+
+
+  </div>
+</div>
+
+
+<div class="row  align-items-left p-8">
+  <div class="col-lg-2  p-8">
     <br>
-
-
-
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        
+      <img src="https://lh3.googleusercontent.com/d/1lNuHY7nkZ_ofG7XIJRqL9n2hptT75oDb=s220?authuser=0" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-9 p-5">
+  
+  
 <li><b><a target="_blank">
           "Domain specific BERT representation for Named Entity Recognition of lab protocol."</a></b>, <br> <i>Tejas Vaidhya and Ayush Kaushal</i> <br>
            Proceedings of the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP)  <br>
@@ -106,6 +135,25 @@ ___
 
 
 
+  </div>
+</div>
+
+
+<div class="row  align-items-left p-8">
+  <div class="col-lg-2  p-8">
+    <br>
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        
+      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/fakenews.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-9 p-5">
+  
+  
 <li><a target="_blank"><b>
           "Hostility Detection in Hindi leveraging Pre-Trained Language Models"</b></a>, <br> <i> Ojasv Kamal, Adarsh Kumar, and Tejas Vaidhya</i> <br>
            <b><u>Oral Presentation</u></b> at the Constraint workshop at Advancement Of Artificial Intelligence <br> {% include elements/button.html link="https://github.com/kamalojasv181/Hostility-Detection-in-Hindi-Posts" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="https://arxiv.org/pdf/2101.05494.pdf" text="<b>Pdf</b>"   size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"    size="sm" %} {% include elements/button.html link="" text="<b>Slides</b>"    size="sm" %} 
@@ -129,9 +177,31 @@ F1 Score1. <br>
   </div>
     <br>
 
+
+  </div>
+</div>
+
+
+
+
+<div class="row  align-items-left p-8">
+  <div class="col-lg-2  p-9">
+    <br>
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        
+      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/map_viz/main/assets/beto.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-9 p-5">
+  
+  
 <li><b><a target="_blank" >
           "Spanish Pre-Trained Language Models for HealthCare Industry"</a></b>, <br> <i>Tejas Vaidhya and Jalaj Harkawat</i><br>
-           <b><u>Oral Presentation</u></b> at Proceedings of the Iberian Languages Evaluation Forum  <br> {% include elements/button.html link="https://github.com/jharkawat/meddoprof_shared_task" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="" text="<b>Pdf</b>"   size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"    size="sm" %} {% include elements/button.html link="" text="<b>Slides</b>"    size="sm" %} 
+           <b><u>Oral Presentation</u></b> at Proceedings of the Iberian Languages Evaluation Forum  <br> {% include elements/button.html link="https://github.com/jharkawat/meddoprof_shared_task" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="http://ceur-ws.org/Vol-2943/meddoprof_paper7.pdf" text="<b>Pdf</b>"   size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"    size="sm" %} {% include elements/button.html link="" text="<b>Slides</b>"    size="sm" %} 
            <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#beto"><u>More</u> </a>
  
 
@@ -141,6 +211,27 @@ F1 Score1. <br>
   </div>
     <br>
 
+
+  </div>
+</div>
+
+
+
+<div class="row  align-items-left p-8">
+  <div class="col-lg-2  p-9">
+    <br>
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        
+      <img src="https://zhijing-jin.com/fantasy/wp-content/uploads/2021/08/icm-1024x357.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+  </div>
+  </div>
+  </div>
+  <div class="col-lg-9 p-5">
+  
+  
 <li><b><a target="_blank" >
           "Causal Direction in Data Matters: Implications of Causal and Anticausal Learning in NLP"</a></b>, <br> <i>Zhijing Jin, Julius von KÃgelgenâ, Jingwei Ni, Tejas Vaidhya, Ayush Kaushal, Mrinmaya Sachan and Bernhard Schoelkopf</i><br>
           <b><u>Long Paper</u></b> at the 2021 Conference on Emperical Methods in Natural Language Processing (EMNLP)<br>   {% include elements/button.html link="" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="https://drive.google.com/file/d/1UDGujYmKUzDRFgLbvF355URmxiEyoMXv/view" text="<b>Pdf</b>"   size="sm" %} {% include elements/button.html link="" text="<b>Cite</b>"    size="sm" %} {% include elements/button.html link="" text="<b>Slides</b>"    size="sm" %}
@@ -151,7 +242,29 @@ F1 Score1. <br>
       
  </div>
     <br>
+      
+  </div>
+    <br>
 
+
+  </div>
+
+
+<div class="row  align-items-left p-8">
+  <div class="col-lg-2  p-9">
+    <br>
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        
+      <img src="https://zhijing-jin.com/fantasy/wp-content/uploads/2021/08/covid_policy-1024x571.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+    </div>
+  </div>
+  </div>
+  <div class="col-lg-9 p-5">
+  
+  
 <li><b><a target="_blank" >
           "Mining the Cause of Political Decision-Making from Social Media: A Case Study of COVID-19 Policies across the US States"</a></b>, <br> <i> Zhijing Jin, Zeyu Peng, Tejas Vaidhya, Bernhard Schoelkopf and Rada Mihalcea</i><br>
           <b><u>Findings of EMNLP</u></b> at the 2021 Conference on Emperical Methods in Natural Language Processing (EMNLP) <br>
@@ -162,11 +275,28 @@ F1 Score1. <br>
     <div id="emnlp21" class="collapse" style="font-size:15px;margin:50px">Mining the causes of political decision making is an active research area in the field of political science. In the past, most studies have focused on long-term policies that are collected over several decades of time, and have primarily relied on surveys as the main source of predictors. However, the recent COVID 19 pandemic has given rise to a new political phenomenon, where political decision-making consists of frequent short-term decisions, all on the same controlled topic—the pandemic. In this paper, we focus on the question of how public opinion influences policy decisions while controlling for covariates such as COVID-19 case increases or unemployment rates. Using a dataset consisting of Twitter data from the 50 US states, we classify the sentiments toward governors of each state, and conduct controlled studies and comparisons. Based on the compiled samples of sentiments, policies, and covariates, we conduct causal inference to discover trends in political decision making across different states
 
 
-. <br> 
-  </div>
-
+ <br> 
+</div>
 <br>
 
+  </div>
+</div>
+
+<div class="row  align-items-left p-8">
+  <div class="col-lg-2  p-9">
+    <br>
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        
+      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/map_viz/main/assets/ccyclegan.JPG" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+    </div>
+  </div>
+  </div>
+  <div class="col-lg-9 p-5">
+  
+  
 <li><a target="_blank">
           <b>"ArP-Gen:Architectural Plan Generator"</b></a>, <br> <i> Tejas Vaidhya and Shubham Kumar Pandey </i><br>
            <b><u>Work in Progress</u></b>   <br>
@@ -179,6 +309,12 @@ goal is to generate mapping from the inputs, namely given site boundary, require
       
 </div>
     <br>
+  </div>
+</div>
+  
+
+
+
     
 </ul>
 ___
