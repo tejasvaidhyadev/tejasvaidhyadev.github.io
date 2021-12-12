@@ -225,7 +225,7 @@ F1 Score1. <br>
       <div id="dummy"></div>
       <div id="element">
         
-      <img src="https://zhijing-jin.com/fantasy/wp-content/uploads/2021/08/icm-1024x357.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/projects_images/ICM.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
   </div>
   </div>
   </div>
@@ -258,7 +258,7 @@ F1 Score1. <br>
       <div id="dummy"></div>
       <div id="element">
         
-      <img src="https://zhijing-jin.com/fantasy/wp-content/uploads/2021/08/covid_policy-1024x571.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/projects_images/covid_policy.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
     </div>
   </div>
   </div>
