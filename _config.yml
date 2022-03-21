@@ -1,14 +1,11 @@
-### Site Settings ###
-title               : iamtejas
+title               : Tejas Vaidhya
 description         : >-
-                     "The world is full of magical things, 
-                      patiently waiting for our senses to grow sharper."
+                     "The world is full of magical things"
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 remote_theme        : tejasvaidhyadev/portfolYOU       # theme 
 
-
-
 ### Plugins ###
+
 plugins:
   - jemoji
   - jekyll-sitemap
@@ -18,24 +15,21 @@ plugins:
 nav_exclude:                                            # The following path is excluded from navbar
   - pages/tags.html
   - pages/404.html
-  - pages/index.md
-  
-
-
+  - pages/index.md 
+  - pages/Resume.md 
 
 ### Author Info ###
 author:
   name              : Tejas Vaidhya
-  image             : https://raw.githubusercontent.com/tejasvaidhyadev/Portfolio/gh-pages/_images/tejas.jpg
+  image             : https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/tejas.jpg
 # behance           : your_username
 # dribbble          : your_username
-  email             : iamtejasvaidhy@gmail.com
+  email             : iamtejasvaidhya@gmail.com
   facebook          : tejas.vaidhya.52
   github            : tejasvaidhyadev
 # gitlab            : your_username
   instagram         : tejasvaidhya/
-  linkedin          : tejas-vaidhya-0245b5157/
-  medium            : your_username
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
@@ -84,4 +78,5 @@ exclude:
   - "*.log"
 
 gems:
-  - jekyll-sitemap
+  - jekyll-sitemap  
+

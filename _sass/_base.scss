@@ -1,0 +1,24 @@
+body{  font-family:  Serif;
+  font: 26px;
+  font-size:large;
+}
+
+.badge {
+  font-weight: 500;
+}
+
+.bg-light,
+.badge-light {
+  &,
+  * {
+    color: $text-black !important;
+  }
+}
+
+.bg-dark,
+.badge-dark {
+  &,
+  * {
+    color: $text-white !important;
+  }
+}

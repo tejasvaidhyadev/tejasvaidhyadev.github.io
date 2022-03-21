@@ -1,7 +1,7 @@
 ---
-name: Extracting COVID Entities from tweets
-tools: [Natural Language Processing, Deeplearning, Social Computing]
-image: https://raw.githubusercontent.com/Ayushk4/extract_covid_entity/master/images/slot_filling.png
-description: Proposed the system ranking 1st at the leaderboard for EMNLP 2020 W-NUT workshops shared task-3 on noisy text that utlilizes event specific and chunk span 
+name: <b>Extracting Covid Entities</b>
+tools: [NLP, Deeplearning, Social Computing]
+image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/covid_extract.png
+description: Leveraging Event Specific & Chunk Span features to Extract COVID Events - 1st at the leaderboard for EMNLP 2020
 external_url: https://github.com/Ayushk4/extract_covid_entity
 ---

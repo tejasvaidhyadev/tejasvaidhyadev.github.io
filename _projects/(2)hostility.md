@@ -1,7 +1,7 @@
 ---
-name: Hostility and FakeNews Detection
+name: <b>Hostility and FakeNews Detection</b>
 tools: [NLP, Language model, Hindi]
-image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/fakenews.jpg
-description: Dectection of Fake news and Hostility in hindi leveraging pre-trained language models
+image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/fakenews.png
+description: Leveraging pre-trained Language models for Multidimensional Hostile post detection in Hindi 
 external_url: https://github.com/kamalojasv181/Hostility-Detection-in-Hindi-Posts
 ---
