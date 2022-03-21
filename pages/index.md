@@ -78,7 +78,7 @@ ___
       <div id="dummy"></div>
       <div id="element">
         
-      <img src="https://raw.githubusercontent.com/Ayushk4/extract_covid_entity/master/images/slot_filling.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/logical.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
       </div>
     </div>
   </div>
