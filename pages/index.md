@@ -83,7 +83,24 @@ ___
     </div>
   </div>
   <div class="col-lg-9 p-5">
-  
+
+<li><a target="_blank"><b>
+          "Logical Fallacy Detection"</b></a>, <br> <i> Zhijing Jin∗ Abhinav Lalwani3∗, Tejas Vaidhya,Xiaoyu Shen, Yiwen Ding,
+Zhiheng Lyu7, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf</i> 
+        <br>
+          <b><u>Oral Presentation</u></b> at the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP) <u><b>Shared Task Winners</b></u> <br>
+          {% include elements/button.html link="https://github.com/causalnlp/logical-fallacy" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="https://arxiv.org/pdf/2202.13758.pdf" text="<b>Pdf</b>"   size="sm" %} {% include elements/button.html link="https://github.com/causalNLP/logical-fallacy/blob/main/README.md" text="<b>Cite</b>"    size="sm" %} {% include elements/button.html link="" text="<b>Slides</b>"    size="sm"%} {% include elements/button.html link="" text="<b>Poster</b>"    size="sm" %} 
+          <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#logical"><u>More</u> </a>
+  </li>
+    <div id="logical" class="collapse" style="font-size:15px;margin:50px">Reasoning is central to human intelligence. However, fallacious arguments are common, and some exacerbate problems such as spreading misinformation about climate change. In this paper, we propose the task of logical fallacy detection, and provide a new dataset (Logic) of logical fallacies generally found in text, together with an additional challenge set for detecting logical fallacies in climate change claims (LogicClimate). Detecting logical fallacies is a hard problem as the model must understand the underlying logical structure of the argument. We find that existing pretrained large language models perform poorly on this task. In contrast, we show that a simple structure-aware classifier outperforms the best language model by 5.46% on Logic and 3.86% on LogicClimate. We encourage future work to explore this task as (a) it can serve as a new reasoning challenge for language models, and (b) it can have potential applications in tackling the spread of misinformation <br> 
+  </div>
+
+
+  </div>
+</div>
+
+
+
 <li><a target="_blank"><b>
           "Leveraging Event Specific and Chunk Span features to Extract COVID Events from tweets"</b></a>, <br> <i>Ayush Kaushal and Tejas Vaidhya</i> <br>
           <b><u>Oral Presentation</u></b> at the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP) <u><b>Shared Task Winners</b></u> <br>
