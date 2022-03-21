@@ -100,7 +100,20 @@ Zhiheng Lyu7, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf</i>
 </div>
 
 
-
+<div class="row  align-items-left p-8">
+  <div class="col-lg-2  p-8">
+    <br>
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        
+      <img src="https://raw.githubusercontent.com/Ayushk4/extract_covid_entity/master/images/slot_filling.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-9 p-5">
+  
 <li><a target="_blank"><b>
           "Leveraging Event Specific and Chunk Span features to Extract COVID Events from tweets"</b></a>, <br> <i>Ayush Kaushal and Tejas Vaidhya</i> <br>
           <b><u>Oral Presentation</u></b> at the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP) <u><b>Shared Task Winners</b></u> <br>
