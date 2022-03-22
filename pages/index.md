@@ -85,7 +85,7 @@ ___
   <div class="col-lg-9 p-5">
 
 <li><a target="_blank"><b>
-          "Logical Fallacy Detection"</b></a>, <br> <i> Zhijing Jin∗ Abhinav Lalwani∗, Tejas Vaidhya, Xiaoyu Shen, Yiwen Ding,
+          "Logical Fallacy Detection"</b></a>, <br> <i> Zhijing Jin∗, Abhinav Lalwani∗, Tejas Vaidhya, Xiaoyu Shen, Yiwen Ding,
 Zhiheng Lyu7, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf</i> 
         <br>
           <b><u>Oral Presentation</u></b> at the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP) <u><b>Shared Task Winners</b></u> <br>
