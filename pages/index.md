@@ -88,7 +88,7 @@ ___
           "Logical Fallacy Detection"</b></a>, <br> <i> Zhijing Jin∗, Abhinav Lalwani∗, Tejas Vaidhya, Xiaoyu Shen, Yiwen Ding,
 Zhiheng Lyu7, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf</i> 
         <br>
-          <b><u>Oral Presentation</u></b> at the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP) <u><b>Shared Task Winners</b></u> <br>
+          <b><u>Pre-Print</u></b> <br>
           {% include elements/button.html link="https://github.com/causalnlp/logical-fallacy" text="<b>Code</b>"  size="sm" %} {% include elements/button.html link="https://arxiv.org/pdf/2202.13758.pdf" text="<b>Pdf</b>"   size="sm" %} {% include elements/button.html link="https://github.com/causalNLP/logical-fallacy/blob/main/README.md" text="<b>Cite</b>"    size="sm" %} {% include elements/button.html link="" text="<b>Slides</b>"    size="sm"%} {% include elements/button.html link="" text="<b>Poster</b>"    size="sm" %} 
           <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#logical"><u>More</u> </a>
   </li>
