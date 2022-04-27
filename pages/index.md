@@ -39,8 +39,7 @@ permalink: /
 </div>
 
 ## **News** 
-- **10 Feb 2022**:Got Accpeted at MILA for MSc in Computer science 
-- **3 Jan 2022** I got selected for campus placement
+- **10 Feb 2022**:Got Accpeted at MILA for MSc in Computer science. 
 - **24 Sep 2021**: Our paper titled "Causal Direction of Data Collection Matters: Implications of Causal and Anticausal Learning for NLP" is selected to present as main conference paper at EMNLP 20222 
 - **17 Sep 2021**: Our system improving GPT-3 for text simplication won the best design award at AllenNLP 2021 Hackathon.
 - **14 Sep 2021**: Secured 1st position and cash prize of Rs. 1,00,000 in the Hackathon, Intelligence Augmentation (IA) for AI
