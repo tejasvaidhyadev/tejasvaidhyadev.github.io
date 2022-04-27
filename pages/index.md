@@ -44,7 +44,6 @@ permalink: /
 - **17 Sep 2021**: Our system improving GPT-3 for text simplication won the best design award at AllenNLP 2021 Hackathon.
 - **14 Sep 2021**: Secured 1st position and cash prize of Rs. 1,00,000 in the Hackathon, Intelligence Augmentation (IA) for AI
 - **26 Aug 2021**: Our paper titled "Mining the Cause of Political Decision-Making from Social Media" is selected in the Findings of EMNLP.
-
 - **7 July 2021**: Attending [Eastern European Machine Learning Summer School, 2021](https://www.eeml.eu/home)  
 - **1 May 2021**: Mentoring two project in [Google Summer of Code, 2021](https://github.com/AdarshKumar712/PPLM.jl) and [Julia Summer of Code, 2021](https://github.com/SambhawDrag/XLNet.jl).
 - **1 March 2021**: Starting Research internship at [Mrinmaya's Lab, ETH Zürich](http://www.mrinmaya.io/) 
@@ -227,7 +226,7 @@ F1 Score1. <br>
       <div id="dummy"></div>
       <div id="element">
         
-      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/map_viz/main/assets/beto.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+      <img src="https://pbs.twimg.com/profile_images/1457405380326268933/nJFxRGFA_400x400.jpg" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
       </div>
     </div>
   </div>
