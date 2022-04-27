@@ -53,10 +53,10 @@ permalink: /
 
 <div id="news1" class="collapse" style="margin:20px">
 <ul>
-    <li> <b>14 Jan 2021</b>: Starting internship at [Uniworks Designs, Hyderabad](https://uniworksdesigns.com/) <li>
-    <li> <b> 7 Jan 2021</b>: Paper accepted to the [CONSTRAINT](https://constraint-shared-task-2021.github.io/) workshop, collocated with AAAI 2021<li>
-    <li> <b>6 October 2020</b>: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).<li>
-    <li> <b>1 October 2020</b>: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).<li>
+    <li> <b>14 Jan 2021</b>: Starting internship at [Uniworks Designs, Hyderabad](https://uniworksdesigns.com/) </li>
+    <li> <b> 7 Jan 2021</b>: Paper accepted to the [CONSTRAINT](https://constraint-shared-task-2021.github.io/) workshop, collocated with AAAI 2021</li>
+    <li> <b>6 October 2020</b>: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).</li>
+    <li> <b>1 October 2020</b>: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).</li>
     <li> <b>12 September 2020</b>: Ranked 1st at the leaderboard for EMNLP 2020, W-NUT workshop Shared Task 3.  </li>
     <li> <b>31 August 2020</b>: Completed wonderful summer at <a href="https://summerofcode.withgoogle.com/archive/2020/projects/4810193256316928/"> Google Summer of Code</a></li>
     <li> <b>30 Jun 2020</b>: completed my research intern at <a href="https://home.cern"> CERN</a></li> 
