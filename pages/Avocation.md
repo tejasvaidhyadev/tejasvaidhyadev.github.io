@@ -90,7 +90,7 @@ Recently I attended the following conferences:
 - EMNLP 2020
 
 ## **Architecture?**
-Architecture is a love-hate relationship for me. Architecture, in my opinion, is a field that, at its core, is as bizarre as poetry or music, but has been relegated to the status of real estate make-up. I have no plans to pursue the field in the manner it is now practised, but I do see the importance of architectural design practise in all of my works. For my undergrad thesis (to be completed by July 2022), I am designing the 'Incubator center of indian startup in AI' that will encapsulate everything I've learned so far.
+Architecture is a love-hate relationship for me. Architecture, in my opinion, is a field that, at its core, is as bizarre as poetry or music, but has been relegated to the status of real estate make-up. I have no plans to pursue the field in the manner it is now practised, but I do see the importance of architectural design practise in all of my works. For my undergrad thesis (to be completed by July 2022), I am designing the '[AI Innovation and Accleration Center](https://www.canva.com/design/DAE-3aLHq7Y/kp8uawa_j22iV34nK21-MA/view)' that will encapsulate everything I've learned so far.
 
 **Previous work**  
 I've worked on a lot of studio design projects in the past. You can find some of my project in the link below 

@@ -39,18 +39,24 @@ permalink: /
 </div>
 
 ## **News** 
+- **10 Feb 2022**:Got Accpeted at MILA for MSc in Computer science 
+- **3 Jan 2022** I got selected for campus placement
+- **24 Sep 2021**: Our paper titled "Causal Direction of Data Collection Matters: Implications of Causal and Anticausal Learning for NLP" is selected to present as main conference paper at EMNLP 20222 
+- **17 Sep 2021**: Our system improving GPT-3 for text simplication won the best design award at AllenNLP 2021 Hackathon.
+- **14 Sep 2021**: Secured 1st position and cash prize of Rs. 1,00,000 in the Hackathon, Intelligence Augmentation (IA) for AI
+- **26 Aug 2021**: Our paper titled "Mining the Cause of Political Decision-Making from Social Media" is selected in the Findings of EMNLP.
+
 - **7 July 2021**: Attending [Eastern European Machine Learning Summer School, 2021](https://www.eeml.eu/home)  
 - **1 May 2021**: Mentoring two project in [Google Summer of Code, 2021](https://github.com/AdarshKumar712/PPLM.jl) and [Julia Summer of Code, 2021](https://github.com/SambhawDrag/XLNet.jl).
-- **1 March 2021**: Starting Research internship at [Mrinmaya's Lab, ETH Zürich](http://www.mrinmaya.io/)
-- **14 Jan 2021**: Starting internship at [Uniworks Designs, Hyderabad](https://uniworksdesigns.com/) 
-- **7 Jan 2021**: Paper accepted to the [CONSTRAINT](https://constraint-shared-task-2021.github.io/) workshop, collocated with AAAI 2021
-- **6 October 2020**: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
-- **1 October 2020**: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).
-- **12 September 2020**: Ranked 1st at the leaderboard for EMNLP 2020, W-NUT workshop Shared Task 3.  
+- **1 March 2021**: Starting Research internship at [Mrinmaya's Lab, ETH Zürich](http://www.mrinmaya.io/) 
 <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#news1"><u>More</u> </a>
 
 <div id="news1" class="collapse" style="margin:20px">
 <ul>
+    <li> <b>14 Jan 2021</b>: Starting internship at [Uniworks Designs, Hyderabad](https://uniworksdesigns.com/) <li>
+    <li> <b> 7 Jan 2021</b>: Paper accepted to the [CONSTRAINT](https://constraint-shared-task-2021.github.io/) workshop, collocated with AAAI 2021<li>
+    <li> <b>6 October 2020</b>: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).<li>
+    <li> <b>1 October 2020</b>: paper accepted to EMNLP 2020, Workshop on [Noisy User-generated Text](http://noisy-text.github.io/2020/).<li>
     <li> <b>12 September 2020</b>: Ranked 1st at the leaderboard for EMNLP 2020, W-NUT workshop Shared Task 3.  </li>
     <li> <b>31 August 2020</b>: Completed wonderful summer at <a href="https://summerofcode.withgoogle.com/archive/2020/projects/4810193256316928/"> Google Summer of Code</a></li>
     <li> <b>30 Jun 2020</b>: completed my research intern at <a href="https://home.cern"> CERN</a></li> 
