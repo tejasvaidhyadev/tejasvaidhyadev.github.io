@@ -362,9 +362,6 @@ ___
 </div >
 *details of projects can be found* [**here**](projects/)  
 
- ___
-<br>
-
 You can also check out the other things I do [**here**](Miscellaneous/)
 
 ___
