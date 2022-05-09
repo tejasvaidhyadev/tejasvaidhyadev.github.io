@@ -19,7 +19,7 @@
   #description:
   #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
   courses:
-  image:   https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/uniworks.png
+  image:   https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/uniworks.png
   tools: [GANs, Architecture, FloorPlan Generation]
 
 - entity: Google Summer of Code @julialang
