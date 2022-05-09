@@ -360,7 +360,6 @@ ___
 <div class="row">
 {% include about/timeline.html title="" source=site.data.education-timeline %}
 </div >
-*details of projects can be found* [**here**](projects/)  
 
 You can also check out the other things I do [**here**](Miscellaneous/)
 
