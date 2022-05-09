@@ -365,13 +365,6 @@ ___
  ___
 <br>
 
-<!-- ## **Selected Projects**      
-
-{% include projects/index.html %}
-{% include elements/button.html link="projects/" text="**Read More**" block=true %}
-
-___  -->
-
 You can also check out the other things I do [**here**](Miscellaneous/)
 
 ___
