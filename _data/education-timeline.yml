@@ -3,13 +3,24 @@
   location: ETH Zurich
   role: <b>Research Intern</b>
   from: Mar 2021
-  to: Present
+  to: Aug 2021
   #description:
   #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
   courses:
   image:   https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/ETH-Zurich.png
   tools: [NLP, Transformer, Language model, Causal Inference]
 
+- entity: Uniworks Deisgns,
+  link: https://uniworksdesigns.com/
+  location: Hyderabad
+  role: <b>Machiine Learning Intern</b>
+  from: Dec 2021
+  to: Mar 2021
+  #description:
+  #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
+  courses:
+  image:   https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/uniworks.png
+  tools: [GANs, Architecture, FloorPlan Generation]
 
 - entity: Google Summer of Code @julialang
   link: https://summerofcode.withgoogle.com/projects/#5015442659213312
