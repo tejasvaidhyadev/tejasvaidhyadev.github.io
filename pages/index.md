@@ -362,15 +362,15 @@ ___
 </div >
 *details of projects can be found* [**here**](projects/)  
 
-<!-- ___
+ ___
 <br>
 
-## **Selected Projects**      
+<!-- ## **Selected Projects**      
 
 {% include projects/index.html %}
 {% include elements/button.html link="projects/" text="**Read More**" block=true %}
 
-___ -->
+___  -->
 
 You can also check out the other things I do [**here**](Miscellaneous/)
 
