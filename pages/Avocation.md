@@ -76,7 +76,7 @@ Execution of the placement of 3000+ students at IIT Kharagpur.
 and Short Film Making in Technology General Championship 2020 at the IIT Kharagpur.  
 - **Mentor at Google Summer of Code and Julia Summer of Code: Mentored the following projects:** "Plug and Play
 Language Models in Julia" and " XLNet - A Generalized Autoregressive Pretraining Model for JuliaText".  
-
+- **Organizer at ACL YEAR-ROUND MENTORSHIP**- Trying to establish global supportive network for NLP researchers.
 
 ## **SOCIAL CAUSE** 
 - Volunteerly taught rural students for two years in the villages near kharagpur on saturday and sunday 
