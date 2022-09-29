@@ -25,11 +25,11 @@ permalink: /
   
    <p style="font-size:30px"> <b>About me</b></p> 
     Hi, I'm Tejas Vaidhya 👋 <br>  
-     I am currently in my senior year of undergraduate studies at <a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur</a>. <br> 
+     I am grad student in computer science at <a href = "https://mila.quebec/"> MILA </a> and University of Montreal supervised by prof. Dhanya Sridhar. I received my undergraduate degree from <a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur</a>. <br> 
     
     My research interests include Natural Language Processing, Computer vision and Causal Inference. I am also highly interested to work on causality, explainability and Transformer based Language models. The goal of my research is to develop technologies and agents that can perceive their environment, reason about it, and communicate their understanding via natural language!  <br>
     
-    In general, I am curious about everything. Recently, I've developed an interest in economics, psychology, and philosophy.  In addition, I am exploring the web3 space by building a tool for 3D designers and architects.
+    In general, I am curious about everything. Recently, I've developed an interest in economics, psychology, and philosophy.
     
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">     
     <br> <br> 
@@ -39,10 +39,11 @@ permalink: /
 </div>
 
 ## **News** 
+- **1 Sep 2022**:  Joining MILA as a Master's student in Fall 2022.
 - **1 April 2020**: Become organizer of [ACL Year-Round Mentorship](https://mentorship.aclweb.org/). 
 - **10 Feb 2022**: Accepted at [MILA](https://mila.quebec/en/) for MSc in Computer science. 
-- **24 Sep 2021**: Our paper titled "Causal Direction of Data Collection Matters: Implications of Causal and Anticausal Learning for NLP" is selected to present as main conference paper at EMNLP 20222 
-- **17 Sep 2021**: Our system improving GPT-3 for text simplication won the best design award at AllenNLP 2021 Hackathon.
+- **24 Sep 2021**: Our paper titled ["Causal Direction of Data Collection Matters: Implications of Causal and Anticausal Learning for NLP"](https://arxiv.org/abs/2110.03618) is selected to present as main conference paper at EMNLP 20222 
+- **17 Sep 2021**: Our [system improving GPT-3](https://github.com/Ayushk4/AllenNLP_Hacks) for text simplication won the best design award at AllenNLP 2021 Hackathon.
 - **14 Sep 2021**: Secured 1st position and cash prize of Rs. 1,00,000 in the Hackathon, Intelligence Augmentation (IA) for AI
 - **26 Aug 2021**: Our paper titled "Mining the Cause of Political Decision-Making from Social Media" is selected in the Findings of EMNLP.
 - **7 July 2021**: Attending [Eastern European Machine Learning Summer School, 2021](https://www.eeml.eu/home)  
