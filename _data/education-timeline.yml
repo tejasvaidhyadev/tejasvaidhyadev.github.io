@@ -1,3 +1,15 @@
+- entity: MILA Quebec,
+  link: https://mila.quebec/
+  location: Montreal
+  role: <b>Grad Student</b>
+  from: Sep 2022
+  to: present
+  #description:
+  #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
+  courses:
+  image:   https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/mila.png
+  tools: [NLP, Transformer, Language model, Causal Inference]
+
 - entity: Institute for Machine Learning,
   link: http://www.mrinmaya.io
   location: ETH Zurich
