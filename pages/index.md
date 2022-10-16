@@ -39,7 +39,7 @@ permalink: /
 </div>
 
 ## **News** 
-- **1 Sep 2022**:  Joining MILA as a Master's student in Fall 2022.
+- **1 Sep 2022**:  Joining [MILA](https://mila.quebec/) as a Master's student.
 - **1 April 2020**: Become organizer of [ACL Year-Round Mentorship](https://mentorship.aclweb.org/). 
 - **10 Feb 2022**: Accepted at [MILA](https://mila.quebec/en/) for MSc in Computer science. 
 - **24 Sep 2021**: Our paper titled ["Causal Direction of Data Collection Matters: Implications of Causal and Anticausal Learning for NLP"](https://arxiv.org/abs/2110.03618) is selected to present as main conference paper at EMNLP 20222 
