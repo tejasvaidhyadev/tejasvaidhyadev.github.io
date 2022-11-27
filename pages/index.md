@@ -30,8 +30,8 @@ permalink: /
     My research interests include Natural Language Processing and Causal Inference. I am also highly interested to work on scaling laws, explainability and Transformer based Language models. The goal of my research is to develop technologies and agents that can perceive their environment, reason about it, and communicate their understanding via natural language!  <br>
     
     In general, I am curious about everything. Recently, I've developed an interest in economics, psychology, and philosophy.
-
-    <b>Email<b>: iamtejasvaidhya@gmail.com <br>
+    <br>
+    <b>Email</b>: iamtejasvaidhya@gmail.com <br>
     
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">     
     <br> <br> 
