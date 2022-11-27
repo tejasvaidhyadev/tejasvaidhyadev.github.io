@@ -31,7 +31,7 @@ permalink: /
     
     In general, I am curious about everything. Recently, I've developed an interest in economics, psychology, and philosophy.
 
-    <b>Email<b>: iamtejasvaidhya <at> gmail.com <br>
+    <b>Email<b>: iamtejasvaidhya@gmail.com <br>
     
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">     
     <br> <br> 
