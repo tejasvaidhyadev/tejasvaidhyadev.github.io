@@ -27,7 +27,7 @@ permalink: /
     Hi, I'm Tejas Vaidhya 👋 <br>  
      I am grad student in computer science at <a href = "https://mila.quebec/"> MILA </a> and University of Montreal supervised by Prof. <a href = "https://www.dsridhar.com/"> Dhanya Sridhar </a>. I received my undergraduate degree from <a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur</a>. <br> 
     
-    My research interests include Natural Language Processing, Computer vision and Causal Inference. I am also highly interested to work on causality, explainability and Transformer based Language models. The goal of my research is to develop technologies and agents that can perceive their environment, reason about it, and communicate their understanding via natural language!  <br>
+    My research interests include Natural Language Processing and Causal Inference. I am also highly interested to work on scaling laws, explainability and Transformer based Language models. The goal of my research is to develop technologies and agents that can perceive their environment, reason about it, and communicate their understanding via natural language!  <br>
     
     In general, I am curious about everything. Recently, I've developed an interest in economics, psychology, and philosophy.
     
@@ -357,10 +357,10 @@ ___
 
 
 
-## **Experience**
+<!-- ## **Experience**
 <div class="row">
 {% include about/timeline.html title="" source=site.data.education-timeline %}
-</div >
+</div > -->
 
 You can also check out the other things I do [**here**](Miscellaneous/)
 
