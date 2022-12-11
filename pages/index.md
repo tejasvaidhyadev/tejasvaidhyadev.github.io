@@ -230,7 +230,7 @@ F1 Score1. <br>
       <div id="dummy"></div>
       <div id="element">
         
-      <img src="https://pbs.twimg.com/profile_images/1457405380326268933/nJFxRGFA_400x400.jpg" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
+      <img src="https://sepln2022.grupolys.org/wp-content/uploads/2021/11/cropped-logo_sepln_2022.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
       </div>
     </div>
   </div>
@@ -300,7 +300,7 @@ F1 Score1. <br>
     </div>
   </div>
   </div>
-  <div class="col-lg-9 p-5">git p
+  <div class="col-lg-9 p-5">
   
   
 <li><b><a target="_blank" >
