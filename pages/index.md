@@ -170,10 +170,10 @@ F1 Score1. <br>
           <a style="float:right; color:#3491fe;" data-toggle="collapse" data-target="#emnlp"><u>More</u> </a>
   </li>
     <div id="emnlp" class="collapse" style="font-size:15px;margin:50px">The principle of independent causal mechanisms (ICM) states that generative processes of real-world data consist of independent modules which do not influence or inform each other. While this idea has led to fruitful developments in the field of causal inference, it is not widely known in the NLP community. In this work, we argue that the causal direction of the data collection process bears non trivial implications that can explain a number of published NLP findings, such as differences in semi-supervised learning (SSL) and domain adaptation (DA) performance across different settings. We categorize common NLP tasks according to their causal direction and empirically assay the validity of the ICM principle for text data using minimum description length. We conduct an extensive meta-analysis of over 100 (SSL) and 30 (DA) published studies, and find that the results are consistent with our expectations based on causal insights. This work presents the first attempt to analyze the ICM principle in NLP, and provides constructive suggestions for future modelling choices
-. <br> 
+. 
 
   </div>
-
+<br> 
 
 
   
@@ -187,10 +187,10 @@ F1 Score1. <br>
     <div id="emnlp21" class="collapse" style="font-size:15px;margin:50px">Mining the causes of political decision making is an active research area in the field of political science. In the past, most studies have focused on long-term policies that are collected over several decades of time, and have primarily relied on surveys as the main source of predictors. However, the recent COVID 19 pandemic has given rise to a new political phenomenon, where political decision-making consists of frequent short-term decisions, all on the same controlled topic—the pandemic. In this paper, we focus on the question of how public opinion influences policy decisions while controlling for covariates such as COVID-19 case increases or unemployment rates. Using a dataset consisting of Twitter data from the 50 US states, we classify the sentiments toward governors of each state, and conduct controlled studies and comparisons. Based on the compiled samples of sentiments, policies, and covariates, we conduct causal inference to discover trends in political decision making across different states
 
 
- <br> 
 </div>
   
-  
+  <br> 
+
 <li><a target="_blank">
           <b>"ArP-Gen: Architectural Plan Generator"</b></a>, <br> <i> Tejas Vaidhya and Shubham Kumar Pandey </i><br>
            <b><u>Work in Progress</u></b>   <br>
@@ -202,7 +202,7 @@ goal is to generate mapping from the inputs, namely given site boundary, require
  <br> 
       
 </div>  
-    
+    <br> 
 </ul>
 ___
 
