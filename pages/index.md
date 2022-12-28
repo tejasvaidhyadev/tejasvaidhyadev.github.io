@@ -90,21 +90,6 @@ Zhiheng Lyu, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf</i>
   </div>
 
 
-
-<div class="row  align-items-left p-8">
-  <div class="col-lg-2  p-8">
-    <br>
-    <!-- Fine Circle Responsive Image -->
-    <div id="container" class="my-2">
-      <div id="dummy"></div>
-      <div id="element">
-        
-      <img src="https://raw.githubusercontent.com/Ayushk4/extract_covid_entity/master/images/slot_filling.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
-      </div>
-    </div>
-  </div>
-  <div class="col-lg-9 p-5">
-
 <li><a target="_blank"><b>
           "Leveraging Event Specific and Chunk Span features to Extract COVID Events from tweets"</b></a>, <br> <i>Ayush Kaushal and Tejas Vaidhya</i> <br>
           <b><u>Oral Presentation</u></b> at the 6th Workshop on Noisy User-generated Text (W-NUT) at the 2020 Conference on Emperical Methods in Natural Language Processing (EMNLP) <u><b>Shared Task Winners</b></u> <br>
@@ -113,26 +98,6 @@ Zhiheng Lyu, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf</i>
   </li>
     <div id="covid" class="collapse" style="font-size:15px;margin:50px">Twitter has acted as an important source of information during disasters and pandemic, especially during the times of COVID-19. In this paper, we describe our system entry for <i>WNUT 2020 Shared Task-3</i>. The task was aimed at automating the extraction of a variety of COVID-19 related events from Twitter, such as individuals who recently contracted the virus, someone with symptoms who were denied testing and believed remedies against the infection. The system consists of separate multi-task models for slot-filling subtasks and sentence-classification subtasks while leveraging the useful sentence-level information for the corresponding event. The system uses COVID-Twitter-Bert with attention-weighted pooling of candidate slot-chunk features to capture the useful information chunks. The system ranks <b>1st at the leader-board</b> with F1 of 0.6598, without using any ensembles or additional datasets. <br> 
   </div>
-
-
-  </div>
-</div>
-
-
-<div class="row  align-items-left p-8">
-  <div class="col-lg-2  p-8">
-    <br>
-    <!-- Fine Circle Responsive Image -->
-    <div id="container" class="my-2">
-      <div id="dummy"></div>
-      <div id="element">
-        
-      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/projects_images/labprotocol.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
-      </div>
-    </div>
-  </div>
-  <div class="col-lg-9 p-5">
-  
   
 <li><b><a target="_blank">
           "Domain specific BERT representation for Named Entity Recognition of lab protocol."</a></b>, <br> <i>Tejas Vaidhya and Ayush Kaushal</i> <br>
@@ -153,26 +118,6 @@ Zhiheng Lyu, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf</i>
         <br> <br>
     </div>
     <br>
-
-
-
-  </div>
-</div>
-
-
-<div class="row  align-items-left p-8">
-  <div class="col-lg-2  p-8">
-    <br>
-    <!-- Fine Circle Responsive Image -->
-    <div id="container" class="my-2">
-      <div id="dummy"></div>
-      <div id="element">
-        
-      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/fakenews.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
-      </div>
-    </div>
-  </div>
-  <div class="col-lg-9 p-5">
   
   
 <li><a target="_blank"><b>
@@ -199,26 +144,7 @@ F1 Score1. <br>
     <br>
 
 
-  </div>
-</div>
 
-
-
-
-<div class="row  align-items-left p-8">
-  <div class="col-lg-2  p-9">
-    <br>
-    <!-- Fine Circle Responsive Image -->
-    <div id="container" class="my-2">
-      <div id="dummy"></div>
-      <div id="element">
-        
-      <img src="https://sepln2022.grupolys.org/wp-content/uploads/2021/11/cropped-logo_sepln_2022.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
-      </div>
-    </div>
-  </div>
-  <div class="col-lg-9 p-5">
-  
   
 <li><b><a target="_blank" >
           "Spanish Pre-Trained Language Models for HealthCare Industry"</a></b>, <br> <i>Tejas Vaidhya and Jalaj Harkawat</i><br>
@@ -232,25 +158,6 @@ F1 Score1. <br>
   </div>
     <br>
 
-
-  </div>
-</div>
-
-
-
-<div class="row  align-items-left p-8">
-  <div class="col-lg-2  p-9">
-    <br>
-    <!-- Fine Circle Responsive Image -->
-    <div id="container" class="my-2">
-      <div id="dummy"></div>
-      <div id="element">
-        
-      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/projects_images/ICM.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
-  </div>
-  </div>
-  </div>
-  <div class="col-lg-9 p-5">
   
   
 <li><b><a target="_blank" >
@@ -260,31 +167,11 @@ F1 Score1. <br>
   </li>
     <div id="emnlp" class="collapse" style="font-size:15px;margin:50px">The principle of independent causal mechanisms (ICM) states that generative processes of real-world data consist of independent modules which do not influence or inform each other. While this idea has led to fruitful developments in the field of causal inference, it is not widely known in the NLP community. In this work, we argue that the causal direction of the data collection process bears non trivial implications that can explain a number of published NLP findings, such as differences in semi-supervised learning (SSL) and domain adaptation (DA) performance across different settings. We categorize common NLP tasks according to their causal direction and empirically assay the validity of the ICM principle for text data using minimum description length. We conduct an extensive meta-analysis of over 100 (SSL) and 30 (DA) published studies, and find that the results are consistent with our expectations based on causal insights. This work presents the first attempt to analyze the ICM principle in NLP, and provides constructive suggestions for future modelling choices
 . <br> 
-      
- </div>
-    <br>
-      
-  </div>
-    <br>
-
 
   </div>
 
 
-<div class="row  align-items-left p-8">
-  <div class="col-lg-2  p-9">
-    <br>
-    <!-- Fine Circle Responsive Image -->
-    <div id="container" class="my-2">
-      <div id="dummy"></div>
-      <div id="element">
-        
-      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/projects_images/covid_policy.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
-    </div>
-  </div>
-  </div>
-  <div class="col-lg-9 p-5">
-  
+
   
 <li><b><a target="_blank" >
           "Mining the Cause of Political Decision-Making from Social Media: A Case Study of COVID-19 Policies across the US States"</a></b>, <br> <i> Zhijing Jin, Zeyu Peng, Tejas Vaidhya, Bernhard Schoelkopf and Rada Mihalcea</i><br>
@@ -298,24 +185,6 @@ F1 Score1. <br>
 
  <br> 
 </div>
-<br>
-
-  </div>
-</div>
-
-<div class="row  align-items-left p-8">
-  <div class="col-lg-2  p-9">
-    <br>
-    <!-- Fine Circle Responsive Image -->
-    <div id="container" class="my-2">
-      <div id="dummy"></div>
-      <div id="element">
-        
-      <img src="https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/projects_images/ARP-GAN.png" alt="{{ site.title }}" class="rect-image wow animated" data-wow-delay=".1s">
-    </div>
-  </div>
-  </div>
-  <div class="col-lg-9 p-5">
   
   
 <li><a target="_blank">
@@ -328,14 +197,7 @@ F1 Score1. <br>
 goal is to generate mapping from the inputs, namely given site boundary, required building foot print and fundamental spatial program requirements. A lot of study has been already done in the area of generative algorithm in order to create spatial floor plan layouts with the help of iterative process. In this paper, we attempt to propose first end-to-end Architectural plan generation model called ArP-Gen: Architectural Plan Generator, that create architectural plan from basic user inputs like site boundary, entrance point, and room programming and new Spatial Mapping Task (SMT), which maps spatial or semantically segmented floor plans to detail architectural plan, learning detailing and room semantics. Our other contribution also include creation of precisely annotated and colour coded image data set for the purpose of mapping spatial plan to detailed architectural floor plan layout. Experiments and evaluation of output by architects demonstrate the potential of ArP-Gen framework to generate feasible Architectural solutions.
  <br> 
       
-</div>
-    <br>
-  </div>
-</div>
-  
-
-
-
+</div>  
     
 </ul>
 ___
