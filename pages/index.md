@@ -41,7 +41,7 @@ permalink: /
 </div>
 
 ## **News** 
-- **1 Mar 2022**:  Building [nolano.org](https://twitter.com/NolanoOrg), stay tuned!
+- **1 Mar 2023**:  Building [nolano.org](https://twitter.com/NolanoOrg), stay tuned!
 - **1 Sep 2022**:  Joining [MILA](https://mila.quebec/) as a Master's student.
 - **1 April 2020**: Become organizer of [ACL Year-Round Mentorship](https://mentorship.aclweb.org/). 
 - **10 Feb 2022**: Accepted at [MILA](https://mila.quebec/en/) for MSc in Computer science. 
