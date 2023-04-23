@@ -25,7 +25,7 @@ permalink: /
   
    <p style="font-size:30px"> <b>About me</b></p> 
     Hi, I'm Tejas Vaidhya 👋 <br>  
-     I am grad student in computer science at <a href = "https://mila.quebec/"> MILA </a> and University of Montreal supervised by Prof. <a href = "https://irina-rish.com/"> Irina Rish </a>. I received my undergraduate degree from <a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur</a>. <br> 
+     I am grad student in computer science at <a href = "https://mila.quebec/"> MILA </a> and University of Montreal supervised by <a href = "https://irina-rish.com/"> Prof. Irina Rish </a>. I received my undergraduate degree from <a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur</a>. <br> 
     
     My research interests include Natural Language Processing and Large Model Compression. I am also highly interested to work on scaling laws, explainability and Transformer based Language models. The goal of my research is to develop technologies and agents that can perceive their environment, reason about it, and communicate their understanding via natural language!  <br>
     
