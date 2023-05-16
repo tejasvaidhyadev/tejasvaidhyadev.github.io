@@ -42,7 +42,7 @@ permalink: /
 </div>
 
 ## **News** 
-- **15 Apr 2023**:  Nolano is in top 10 teams in [Mozilla Responsible AI Challenge](https://future.mozilla.org/builders-challenge/)
+- **15 Apr 2023**:  Nolano is one of the top 10 teams in the [Mozilla Responsible AI Challenge](https://future.mozilla.org/builders-challenge/)
 - **1 Mar 2023**:  Building [nolano.org](https://twitter.com/NolanoOrg), stay tuned!
 - **1 Sep 2022**:  Joining [MILA](https://mila.quebec/) as a Master's student.
 - **1 April 2020**: Become organizer of [ACL Year-Round Mentorship](https://mentorship.aclweb.org/). 
