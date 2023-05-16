@@ -25,9 +25,10 @@ permalink: /
   
    <p style="font-size:30px"> <b>About me</b></p> 
     Hi, I'm Tejas Vaidhya 👋 <br>  
+     Building <a href = "Nolano.org"> Nolano.org, </a> stay tuned! <br>
      I am grad student in computer science at <a href = "https://mila.quebec/"> MILA </a> and University of Montreal supervised by <a href = "https://irina-rish.com/"> Prof. Irina Rish </a>. I received my undergraduate degree from <a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur</a>. <br> 
     
-    My research interests include Natural Language Processing and Large Model Compression. I am also highly interested to work on scaling laws, explainability and Transformer based Language models. The goal of my research is to develop technologies and agents that can perceive their environment, reason about it, and communicate their understanding via natural language!  <br>
+    My research interests include Scaling Laws and Large Language Model Compression. The goal of my research is to develop technologies and agents that can perceive their environment, reason about it, and communicate their understanding via natural language! <br>
     
     In general, I am curious about everything. Recently, I've developed an interest in economics, psychology, and philosophy.
     <br>
@@ -41,6 +42,7 @@ permalink: /
 </div>
 
 ## **News** 
+- **15 Apr 2023**:  Nolano is in top 10 teams in [https://future.mozilla.org/builders-challenge/](Mozilla Responsible AI Challenge)
 - **1 Mar 2023**:  Building [nolano.org](https://twitter.com/NolanoOrg), stay tuned!
 - **1 Sep 2022**:  Joining [MILA](https://mila.quebec/) as a Master's student.
 - **1 April 2020**: Become organizer of [ACL Year-Round Mentorship](https://mentorship.aclweb.org/). 
