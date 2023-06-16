@@ -42,6 +42,7 @@ permalink: /
 </div>
 
 ## **News** 
+- **31 May 2023**: Nolano secured the 3rd position in the Mozilla Responsible AI Challenge and received a grant of 20K USD. (https://future.mozilla.org/builders-challenge/)
 - **15 Apr 2023**:  Nolano is one of the top 10 teams in the [Mozilla Responsible AI Challenge](https://future.mozilla.org/builders-challenge/)
 - **1 Mar 2023**:  Building [nolano.org](https://twitter.com/NolanoOrg), stay tuned!
 - **1 Sep 2022**:  Joining [MILA](https://mila.quebec/) as a Master's student.
