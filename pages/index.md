@@ -25,8 +25,8 @@ permalink: /
   
    <p style="font-size:30px"> <b>About me</b></p> 
     Hi, I'm Tejas Vaidhya 👋 <br>  
-     Building <a href = "https://www.nolano.org/"> nolano.org, </a> stay tuned! <br>
-     I am grad student in computer science at <a href = "https://mila.quebec/"> MILA </a> and University of Montreal supervised by <a href = "https://irina-rish.com/"> Prof. Irina Rish </a>. I received my undergraduate degree from <a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur</a>. <br> 
+     Building <a href = "https://www.nolano.ai/"> nolano.org, </a> stay tuned! <br>
+     I am grad student in computer science at <a href = "https://mila.quebec/"> MILA </a> and University of Montreal supervised by <a href = "https://twitter.com/irinarish?lang=en"> Prof. Irina Rish </a>. I received my undergraduate degree from <a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur</a>. <br> 
     
     My research interests include Scaling Laws and Large Language Model Compression. The goal of my research is to develop technologies and agents that can perceive their environment, reason about it, and communicate their understanding via natural language! <br>
     
@@ -224,7 +224,7 @@ ___
 <br>
 <div align="center" style="font-size: 80%">
 
-	<i>iamtejasvaidhya@iitkgp.ac.in</i><br>
+	<i>iamtejasvaidhya@gmail.com</i><br>
 	<i>+91 9340004079</i>
 </div>
 
