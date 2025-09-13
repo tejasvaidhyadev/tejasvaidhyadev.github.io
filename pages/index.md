@@ -28,7 +28,7 @@ permalink: /
      Building <a href = "https://www.nolano.ai/"> Nolano AI, </a> stay tuned! <br>
      I am grad student in computer science at <a href = "https://mila.quebec/"> MILA </a> and University of Montreal supervised by <a href = "https://twitter.com/irinarish?lang=en"> Prof. Irina Rish </a>. I received my undergraduate degree from <a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur</a>. <br> 
     
-    My research primarily focuses on the efficiency and scaling of large language models (LLMs). I study scaling laws and explore efficient model representations, including low-bitwidth quantization and other compression strategies, to make LLMs more computationally and memory efficient.
+    My research primarily focuses on the efficiency and scaling of large language models (LLMs). I study scaling laws and explore efficient model representations, including low-bitwidth quantization and other compression strategies, to make LLMs more computationally and memory efficient.  
     
     In general, I am curious about everything. Recently, I've developed an interest in economics, psychology, and philosophy.
     <br>
